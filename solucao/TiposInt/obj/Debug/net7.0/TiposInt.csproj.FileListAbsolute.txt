@@ -1,0 +1,15 @@
+C:\C# KKk\solucao\tiposint\bin\Debug\net7.0\TiposInt.exe
+C:\C# KKk\solucao\tiposint\bin\Debug\net7.0\TiposInt.deps.json
+C:\C# KKk\solucao\tiposint\bin\Debug\net7.0\TiposInt.runtimeconfig.json
+C:\C# KKk\solucao\tiposint\bin\Debug\net7.0\TiposInt.dll
+C:\C# KKk\solucao\tiposint\bin\Debug\net7.0\TiposInt.pdb
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.csproj.AssemblyReference.cache
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.AssemblyInfoInputs.cache
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.AssemblyInfo.cs
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.csproj.CoreCompileInputs.cache
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.dll
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\refint\TiposInt.dll
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.pdb
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\TiposInt.genruntimeconfig.cache
+C:\C# KKk\solucao\tiposint\obj\Debug\net7.0\ref\TiposInt.dll

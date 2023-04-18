@@ -1,0 +1,15 @@
+C:\C# KKk\solucao\datetime\bin\Debug\net7.0\DateTime.exe
+C:\C# KKk\solucao\datetime\bin\Debug\net7.0\DateTime.deps.json
+C:\C# KKk\solucao\datetime\bin\Debug\net7.0\DateTime.runtimeconfig.json
+C:\C# KKk\solucao\datetime\bin\Debug\net7.0\DateTime.dll
+C:\C# KKk\solucao\datetime\bin\Debug\net7.0\DateTime.pdb
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.csproj.AssemblyReference.cache
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.AssemblyInfoInputs.cache
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.AssemblyInfo.cs
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.csproj.CoreCompileInputs.cache
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.dll
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\refint\DateTime.dll
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.pdb
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\DateTime.genruntimeconfig.cache
+C:\C# KKk\solucao\datetime\obj\Debug\net7.0\ref\DateTime.dll

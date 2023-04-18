@@ -1,0 +1,15 @@
+C:\C# KKk\solucao\tiposreferencia\bin\Debug\net7.0\TiposReferencia.exe
+C:\C# KKk\solucao\tiposreferencia\bin\Debug\net7.0\TiposReferencia.deps.json
+C:\C# KKk\solucao\tiposreferencia\bin\Debug\net7.0\TiposReferencia.runtimeconfig.json
+C:\C# KKk\solucao\tiposreferencia\bin\Debug\net7.0\TiposReferencia.dll
+C:\C# KKk\solucao\tiposreferencia\bin\Debug\net7.0\TiposReferencia.pdb
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.csproj.AssemblyReference.cache
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.AssemblyInfoInputs.cache
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.AssemblyInfo.cs
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.csproj.CoreCompileInputs.cache
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.dll
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\refint\TiposReferencia.dll
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.pdb
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\TiposReferencia.genruntimeconfig.cache
+C:\C# KKk\solucao\tiposreferencia\obj\Debug\net7.0\ref\TiposReferencia.dll

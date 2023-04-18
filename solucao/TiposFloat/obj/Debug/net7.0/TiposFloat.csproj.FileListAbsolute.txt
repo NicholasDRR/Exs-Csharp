@@ -1,0 +1,15 @@
+C:\C# KKk\solucao\TiposFloat\bin\Debug\net7.0\TiposFloat.exe
+C:\C# KKk\solucao\TiposFloat\bin\Debug\net7.0\TiposFloat.deps.json
+C:\C# KKk\solucao\TiposFloat\bin\Debug\net7.0\TiposFloat.runtimeconfig.json
+C:\C# KKk\solucao\TiposFloat\bin\Debug\net7.0\TiposFloat.dll
+C:\C# KKk\solucao\TiposFloat\bin\Debug\net7.0\TiposFloat.pdb
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.csproj.AssemblyReference.cache
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.AssemblyInfoInputs.cache
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.AssemblyInfo.cs
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.csproj.CoreCompileInputs.cache
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.dll
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\refint\TiposFloat.dll
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.pdb
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\TiposFloat.genruntimeconfig.cache
+C:\C# KKk\solucao\TiposFloat\obj\Debug\net7.0\ref\TiposFloat.dll

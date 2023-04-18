@@ -1,0 +1,15 @@
+C:\C# KKk\solucao\tiponaonumerico\bin\Debug\net7.0\TipoNaoNumerico.exe
+C:\C# KKk\solucao\tiponaonumerico\bin\Debug\net7.0\TipoNaoNumerico.deps.json
+C:\C# KKk\solucao\tiponaonumerico\bin\Debug\net7.0\TipoNaoNumerico.runtimeconfig.json
+C:\C# KKk\solucao\tiponaonumerico\bin\Debug\net7.0\TipoNaoNumerico.dll
+C:\C# KKk\solucao\tiponaonumerico\bin\Debug\net7.0\TipoNaoNumerico.pdb
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.csproj.AssemblyReference.cache
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.AssemblyInfoInputs.cache
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.AssemblyInfo.cs
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.csproj.CoreCompileInputs.cache
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.dll
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\refint\TipoNaoNumerico.dll
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.pdb
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\TipoNaoNumerico.genruntimeconfig.cache
+C:\C# KKk\solucao\tiponaonumerico\obj\Debug\net7.0\ref\TipoNaoNumerico.dll

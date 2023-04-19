@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\conversaodetipos1\bin\Debug\net7.0\ConversaoDeTipos1.exe
+C:\C#\C#-exs\solucao\conversaodetipos1\bin\Debug\net7.0\ConversaoDeTipos1.deps.json
+C:\C#\C#-exs\solucao\conversaodetipos1\bin\Debug\net7.0\ConversaoDeTipos1.runtimeconfig.json
+C:\C#\C#-exs\solucao\conversaodetipos1\bin\Debug\net7.0\ConversaoDeTipos1.dll
+C:\C#\C#-exs\solucao\conversaodetipos1\bin\Debug\net7.0\ConversaoDeTipos1.pdb
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.dll
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\refint\ConversaoDeTipos1.dll
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.pdb
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ConversaoDeTipos1.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\conversaodetipos1\obj\Debug\net7.0\ref\ConversaoDeTipos1.dll

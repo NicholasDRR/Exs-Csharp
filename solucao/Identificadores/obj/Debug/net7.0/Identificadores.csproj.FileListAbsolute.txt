@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\identificadores\bin\Debug\net7.0\Identificadores.exe
+C:\C#\C#-exs\solucao\identificadores\bin\Debug\net7.0\Identificadores.deps.json
+C:\C#\C#-exs\solucao\identificadores\bin\Debug\net7.0\Identificadores.runtimeconfig.json
+C:\C#\C#-exs\solucao\identificadores\bin\Debug\net7.0\Identificadores.dll
+C:\C#\C#-exs\solucao\identificadores\bin\Debug\net7.0\Identificadores.pdb
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.dll
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\refint\Identificadores.dll
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.pdb
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\Identificadores.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\identificadores\obj\Debug\net7.0\ref\Identificadores.dll

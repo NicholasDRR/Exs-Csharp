@@ -1,0 +1,110 @@
+Exercícios Fase 1
+
+1)
+int idade = 35;
+Console.WriteLine(idade);
+
+2)
+string nome = "Maria";
+Console.WriteLine(nome);
+
+3)
+float altura = 3.45f;
+
+4)
+DateTime data = new DateTime(1999, 09, 04);
+Console.Writeline(data);
+
+5)
+sbyte ano = 12;
+Console.WriteLine(ano);
+
+6)
+double? nota = 7.80;
+Console.WriteLine(nota);
+
+7) Os tipos por valor armazenam os dados diretamente e tem uma cópia de dados
+Os por referência não armazenam diretamente mas possuem uma referência de onde os dados estão armazenados.
+
+8)
+(int) 10
+(double) 7.99
+(char) 'C'
+(float) 27.4f
+(bool) false
+(string) "Manoel"
+(decimal) 950.90m
+(DateTime) DateTime.Now
+
+9)
+Defina se o tipo é por valor ou referência
+
+(V) int
+(R) string
+(V) float
+(V) double 
+(V) decimal
+(V) char
+(R) object
+
+10) O que é um Nullable Type e qual sua função:
+
+É uma váriavel que poderá receber seu tipo de valor ou um valor nulo.
+Imagine que o aluno faltou na prova de geografia
+
+Ex: int? notaProvaDeGeografia = null;
+
+Ao invés de retornar um erro ao computar a nota do aluno, ela retornará um valor NULO, o que representa que o aluno não fez a prova.
+
+11) O que é Camel Case:
+
+É um identificador com palavra composta ou mais de uma palavra.
+
+A palavra deve começar com letra minúscula e todas outras com letra maiúscula.
+
+Ex: string nomeDoAluno = "Nicholas";
+string nomeDoProfessor = "Josias";
+string nomeDaProfessora = "Velma";
+
+Deve ser usado em variáveis, parâmetros ou campos internos privados.
+
+12) O que é Pascal Case:
+
+É um identificador com palavra composta ou mais de uma palavra.
+
+A palavra deve começar com letra maiúscula e todas outras também.
+
+Ex: class ImprimirTexto
+{
+    public void ImprimeNome(){
+        System.Console.WriteLine("");
+    }
+} 
+
+Perceba que o nome da Classe e do Método mantém esse padrão.
+
+Deve ser usado em classes, métodos, interfaces e propriedades.
+
+13) int x = 77;
+int y = 66;
+Console.WriteLine(x + y)
+
+14) Valores padrão de bool, char, int, double, float, decimal, string:
+bool - false
+char - (U+000)
+int, double, float, decimal - 0 
+string - null
+
+15) 
+
+F
+F
+V
+F
+F
+F
+V
+V
+V
+V
+

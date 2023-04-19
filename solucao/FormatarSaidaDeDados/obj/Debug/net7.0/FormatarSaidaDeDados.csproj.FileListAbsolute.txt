@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\formatarsaidadedados\bin\Debug\net7.0\FormatarSaidaDeDados.exe
+C:\C#\C#-exs\solucao\formatarsaidadedados\bin\Debug\net7.0\FormatarSaidaDeDados.deps.json
+C:\C#\C#-exs\solucao\formatarsaidadedados\bin\Debug\net7.0\FormatarSaidaDeDados.runtimeconfig.json
+C:\C#\C#-exs\solucao\formatarsaidadedados\bin\Debug\net7.0\FormatarSaidaDeDados.dll
+C:\C#\C#-exs\solucao\formatarsaidadedados\bin\Debug\net7.0\FormatarSaidaDeDados.pdb
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.dll
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\refint\FormatarSaidaDeDados.dll
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.pdb
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\FormatarSaidaDeDados.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\formatarsaidadedados\obj\Debug\net7.0\ref\FormatarSaidaDeDados.dll

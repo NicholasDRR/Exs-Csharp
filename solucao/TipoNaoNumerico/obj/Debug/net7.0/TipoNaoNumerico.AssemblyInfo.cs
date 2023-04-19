@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TipoNaoNumerico")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("tiponaonumerico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TipoNaoNumerico")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TipoNaoNumerico")]
+[assembly: System.Reflection.AssemblyProductAttribute("tiponaonumerico")]
+[assembly: System.Reflection.AssemblyTitleAttribute("tiponaonumerico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

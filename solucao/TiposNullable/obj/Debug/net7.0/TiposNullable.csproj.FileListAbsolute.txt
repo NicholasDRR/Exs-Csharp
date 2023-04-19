@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\tiposnullable\bin\Debug\net7.0\TiposNullable.exe
+C:\C#\C#-exs\solucao\tiposnullable\bin\Debug\net7.0\TiposNullable.deps.json
+C:\C#\C#-exs\solucao\tiposnullable\bin\Debug\net7.0\TiposNullable.runtimeconfig.json
+C:\C#\C#-exs\solucao\tiposnullable\bin\Debug\net7.0\TiposNullable.dll
+C:\C#\C#-exs\solucao\tiposnullable\bin\Debug\net7.0\TiposNullable.pdb
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.dll
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\refint\TiposNullable.dll
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.pdb
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\TiposNullable.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\tiposnullable\obj\Debug\net7.0\ref\TiposNullable.dll

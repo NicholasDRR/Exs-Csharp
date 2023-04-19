@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TiposInt")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Tiposint")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("TiposInt")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TiposInt")]
+[assembly: System.Reflection.AssemblyProductAttribute("Tiposint")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Tiposint")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

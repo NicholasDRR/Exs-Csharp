@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\escapesnaformatacao\bin\Debug\net7.0\EscapesNaFormatacao.exe
+C:\C#\C#-exs\solucao\escapesnaformatacao\bin\Debug\net7.0\EscapesNaFormatacao.deps.json
+C:\C#\C#-exs\solucao\escapesnaformatacao\bin\Debug\net7.0\EscapesNaFormatacao.runtimeconfig.json
+C:\C#\C#-exs\solucao\escapesnaformatacao\bin\Debug\net7.0\EscapesNaFormatacao.dll
+C:\C#\C#-exs\solucao\escapesnaformatacao\bin\Debug\net7.0\EscapesNaFormatacao.pdb
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.dll
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\refint\EscapesNaFormatacao.dll
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.pdb
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\EscapesNaFormatacao.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\escapesnaformatacao\obj\Debug\net7.0\ref\EscapesNaFormatacao.dll

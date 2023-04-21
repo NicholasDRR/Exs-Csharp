@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\operadoresatribuicao\bin\Debug\net7.0\OperadoresAtribuicao.exe
+C:\C#\C#-exs\solucao\operadoresatribuicao\bin\Debug\net7.0\OperadoresAtribuicao.deps.json
+C:\C#\C#-exs\solucao\operadoresatribuicao\bin\Debug\net7.0\OperadoresAtribuicao.runtimeconfig.json
+C:\C#\C#-exs\solucao\operadoresatribuicao\bin\Debug\net7.0\OperadoresAtribuicao.dll
+C:\C#\C#-exs\solucao\operadoresatribuicao\bin\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.dll
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\refint\OperadoresAtribuicao.dll
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.pdb
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\operadoresatribuicao\obj\Debug\net7.0\ref\OperadoresAtribuicao.dll

@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\operadoresaritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.exe
+C:\C#\C#-exs\solucao\operadoresaritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.deps.json
+C:\C#\C#-exs\solucao\operadoresaritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.runtimeconfig.json
+C:\C#\C#-exs\solucao\operadoresaritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.dll
+C:\C#\C#-exs\solucao\operadoresaritmeticos\bin\Debug\net7.0\OperadoresAritmeticos.pdb
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.dll
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\refint\OperadoresAritmeticos.dll
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.pdb
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\OperadoresAritmeticos.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\operadoresaritmeticos\obj\Debug\net7.0\ref\OperadoresAritmeticos.dll

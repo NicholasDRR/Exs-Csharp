@@ -1,0 +1,15 @@
+C:\C#\C#-exs\exercicios\exercicios-fase2\bin\Debug\net7.0\Exercicios-fase2.exe
+C:\C#\C#-exs\exercicios\exercicios-fase2\bin\Debug\net7.0\Exercicios-fase2.deps.json
+C:\C#\C#-exs\exercicios\exercicios-fase2\bin\Debug\net7.0\Exercicios-fase2.runtimeconfig.json
+C:\C#\C#-exs\exercicios\exercicios-fase2\bin\Debug\net7.0\Exercicios-fase2.dll
+C:\C#\C#-exs\exercicios\exercicios-fase2\bin\Debug\net7.0\Exercicios-fase2.pdb
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.csproj.AssemblyReference.cache
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.AssemblyInfoInputs.cache
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.AssemblyInfo.cs
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.dll
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\refint\Exercicios-fase2.dll
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.pdb
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\Exercicios-fase2.genruntimeconfig.cache
+C:\C#\C#-exs\exercicios\exercicios-fase2\obj\Debug\net7.0\ref\Exercicios-fase2.dll

@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\operadoreslogicos\bin\Debug\net7.0\OperadoresLogicos.exe
+C:\C#\C#-exs\solucao\operadoreslogicos\bin\Debug\net7.0\OperadoresLogicos.deps.json
+C:\C#\C#-exs\solucao\operadoreslogicos\bin\Debug\net7.0\OperadoresLogicos.runtimeconfig.json
+C:\C#\C#-exs\solucao\operadoreslogicos\bin\Debug\net7.0\OperadoresLogicos.dll
+C:\C#\C#-exs\solucao\operadoreslogicos\bin\Debug\net7.0\OperadoresLogicos.pdb
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.dll
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\refint\OperadoresLogicos.dll
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.pdb
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\OperadoresLogicos.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\operadoreslogicos\obj\Debug\net7.0\ref\OperadoresLogicos.dll

@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\operadoresrelacionais\bin\Debug\net7.0\OperadoresRelacionais.exe
+C:\C#\C#-exs\solucao\operadoresrelacionais\bin\Debug\net7.0\OperadoresRelacionais.deps.json
+C:\C#\C#-exs\solucao\operadoresrelacionais\bin\Debug\net7.0\OperadoresRelacionais.runtimeconfig.json
+C:\C#\C#-exs\solucao\operadoresrelacionais\bin\Debug\net7.0\OperadoresRelacionais.dll
+C:\C#\C#-exs\solucao\operadoresrelacionais\bin\Debug\net7.0\OperadoresRelacionais.pdb
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.dll
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\refint\OperadoresRelacionais.dll
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.pdb
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\OperadoresRelacionais.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\operadoresrelacionais\obj\Debug\net7.0\ref\OperadoresRelacionais.dll

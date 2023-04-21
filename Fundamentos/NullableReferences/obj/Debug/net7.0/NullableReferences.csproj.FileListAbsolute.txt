@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\nullablereferences\bin\Debug\net7.0\NullableReferences.exe
+C:\C#\C#-exs\solucao\nullablereferences\bin\Debug\net7.0\NullableReferences.deps.json
+C:\C#\C#-exs\solucao\nullablereferences\bin\Debug\net7.0\NullableReferences.runtimeconfig.json
+C:\C#\C#-exs\solucao\nullablereferences\bin\Debug\net7.0\NullableReferences.dll
+C:\C#\C#-exs\solucao\nullablereferences\bin\Debug\net7.0\NullableReferences.pdb
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.dll
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\refint\NullableReferences.dll
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.pdb
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\NullableReferences.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\nullablereferences\obj\Debug\net7.0\ref\NullableReferences.dll

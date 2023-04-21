@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\bin\Debug\net7.0\IncrementoDecremento.exe
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\bin\Debug\net7.0\IncrementoDecremento.deps.json
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\bin\Debug\net7.0\IncrementoDecremento.runtimeconfig.json
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\bin\Debug\net7.0\IncrementoDecremento.dll
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\bin\Debug\net7.0\IncrementoDecremento.pdb
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.dll
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\refint\IncrementoDecremento.dll
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.pdb
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\IncrementoDecremento.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\INCREMENTODECREMENTO\obj\Debug\net7.0\ref\IncrementoDecremento.dll

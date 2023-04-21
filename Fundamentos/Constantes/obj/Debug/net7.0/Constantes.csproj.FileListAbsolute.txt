@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\constantes\bin\Debug\net7.0\Constantes.exe
+C:\C#\C#-exs\solucao\constantes\bin\Debug\net7.0\Constantes.deps.json
+C:\C#\C#-exs\solucao\constantes\bin\Debug\net7.0\Constantes.runtimeconfig.json
+C:\C#\C#-exs\solucao\constantes\bin\Debug\net7.0\Constantes.dll
+C:\C#\C#-exs\solucao\constantes\bin\Debug\net7.0\Constantes.pdb
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.dll
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\refint\Constantes.dll
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.pdb
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\Constantes.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\constantes\obj\Debug\net7.0\ref\Constantes.dll

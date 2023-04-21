@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\precedencia\bin\Debug\net7.0\Precedencia.exe
+C:\C#\C#-exs\solucao\precedencia\bin\Debug\net7.0\Precedencia.deps.json
+C:\C#\C#-exs\solucao\precedencia\bin\Debug\net7.0\Precedencia.runtimeconfig.json
+C:\C#\C#-exs\solucao\precedencia\bin\Debug\net7.0\Precedencia.dll
+C:\C#\C#-exs\solucao\precedencia\bin\Debug\net7.0\Precedencia.pdb
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.dll
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\refint\Precedencia.dll
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.pdb
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\Precedencia.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\precedencia\obj\Debug\net7.0\ref\Precedencia.dll

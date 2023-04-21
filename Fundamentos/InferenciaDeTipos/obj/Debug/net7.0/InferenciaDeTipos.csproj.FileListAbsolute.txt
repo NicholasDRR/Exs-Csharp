@@ -1,0 +1,15 @@
+C:\C#\C#-exs\solucao\inferenciadetipos\bin\Debug\net7.0\InferenciaDeTipos.exe
+C:\C#\C#-exs\solucao\inferenciadetipos\bin\Debug\net7.0\InferenciaDeTipos.deps.json
+C:\C#\C#-exs\solucao\inferenciadetipos\bin\Debug\net7.0\InferenciaDeTipos.runtimeconfig.json
+C:\C#\C#-exs\solucao\inferenciadetipos\bin\Debug\net7.0\InferenciaDeTipos.dll
+C:\C#\C#-exs\solucao\inferenciadetipos\bin\Debug\net7.0\InferenciaDeTipos.pdb
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.csproj.AssemblyReference.cache
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.AssemblyInfoInputs.cache
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.AssemblyInfo.cs
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.dll
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\refint\InferenciaDeTipos.dll
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.pdb
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\InferenciaDeTipos.genruntimeconfig.cache
+C:\C#\C#-exs\solucao\inferenciadetipos\obj\Debug\net7.0\ref\InferenciaDeTipos.dll

@@ -1,0 +1,15 @@
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\bin\Debug\net7.0\IfElseIf.exe
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\bin\Debug\net7.0\IfElseIf.deps.json
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\bin\Debug\net7.0\IfElseIf.runtimeconfig.json
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\bin\Debug\net7.0\IfElseIf.dll
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\bin\Debug\net7.0\IfElseIf.pdb
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.csproj.AssemblyReference.cache
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.AssemblyInfoInputs.cache
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.AssemblyInfo.cs
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.dll
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\refint\IfElseIf.dll
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.pdb
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\IfElseIf.genruntimeconfig.cache
+C:\C#\C#-exs\estruturasdecontrole\ifelseif\obj\Debug\net7.0\ref\IfElseIf.dll

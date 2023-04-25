@@ -1,0 +1,15 @@
+C:\C#\C#-exs\estruturasdecontrole\if\bin\Debug\net7.0\If.exe
+C:\C#\C#-exs\estruturasdecontrole\if\bin\Debug\net7.0\If.deps.json
+C:\C#\C#-exs\estruturasdecontrole\if\bin\Debug\net7.0\If.runtimeconfig.json
+C:\C#\C#-exs\estruturasdecontrole\if\bin\Debug\net7.0\If.dll
+C:\C#\C#-exs\estruturasdecontrole\if\bin\Debug\net7.0\If.pdb
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.csproj.AssemblyReference.cache
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.AssemblyInfoInputs.cache
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.AssemblyInfo.cs
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.dll
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\refint\If.dll
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.pdb
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\If.genruntimeconfig.cache
+C:\C#\C#-exs\estruturasdecontrole\if\obj\Debug\net7.0\ref\If.dll

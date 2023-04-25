@@ -1,0 +1,15 @@
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.exe
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.deps.json
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.runtimeconfig.json
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.dll
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\bin\Debug\net7.0\EstruturaDeRepeticao.pdb
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.csproj.AssemblyReference.cache
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.AssemblyInfoInputs.cache
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.AssemblyInfo.cs
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.dll
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\refint\EstruturaDeRepeticao.dll
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.pdb
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\EstruturaDeRepeticao.genruntimeconfig.cache
+C:\C#\C#-exs\estruturasdecontrole\estruturaderepeticao\obj\Debug\net7.0\ref\EstruturaDeRepeticao.dll

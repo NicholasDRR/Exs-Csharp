@@ -1,0 +1,15 @@
+C:\C#\c#-exs\estruturasdecontrole\for1\bin\Debug\net7.0\For1.exe
+C:\C#\c#-exs\estruturasdecontrole\for1\bin\Debug\net7.0\For1.deps.json
+C:\C#\c#-exs\estruturasdecontrole\for1\bin\Debug\net7.0\For1.runtimeconfig.json
+C:\C#\c#-exs\estruturasdecontrole\for1\bin\Debug\net7.0\For1.dll
+C:\C#\c#-exs\estruturasdecontrole\for1\bin\Debug\net7.0\For1.pdb
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.csproj.AssemblyReference.cache
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.AssemblyInfoInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.AssemblyInfo.cs
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.dll
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\refint\For1.dll
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.pdb
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\For1.genruntimeconfig.cache
+C:\C#\c#-exs\estruturasdecontrole\for1\obj\Debug\net7.0\ref\For1.dll

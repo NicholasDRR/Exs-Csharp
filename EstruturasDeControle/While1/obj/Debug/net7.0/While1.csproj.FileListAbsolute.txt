@@ -1,0 +1,15 @@
+C:\C#\c#-exs\estruturasdecontrole\while1\bin\Debug\net7.0\While1.exe
+C:\C#\c#-exs\estruturasdecontrole\while1\bin\Debug\net7.0\While1.deps.json
+C:\C#\c#-exs\estruturasdecontrole\while1\bin\Debug\net7.0\While1.runtimeconfig.json
+C:\C#\c#-exs\estruturasdecontrole\while1\bin\Debug\net7.0\While1.dll
+C:\C#\c#-exs\estruturasdecontrole\while1\bin\Debug\net7.0\While1.pdb
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.csproj.AssemblyReference.cache
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.AssemblyInfoInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.AssemblyInfo.cs
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.dll
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\refint\While1.dll
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.pdb
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\While1.genruntimeconfig.cache
+C:\C#\c#-exs\estruturasdecontrole\while1\obj\Debug\net7.0\ref\While1.dll

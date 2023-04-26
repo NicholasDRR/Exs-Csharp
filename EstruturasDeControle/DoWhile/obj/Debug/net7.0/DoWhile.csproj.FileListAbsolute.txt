@@ -1,0 +1,15 @@
+C:\C#\c#-exs\estruturasdecontrole\dowhile\bin\Debug\net7.0\DoWhile.exe
+C:\C#\c#-exs\estruturasdecontrole\dowhile\bin\Debug\net7.0\DoWhile.deps.json
+C:\C#\c#-exs\estruturasdecontrole\dowhile\bin\Debug\net7.0\DoWhile.runtimeconfig.json
+C:\C#\c#-exs\estruturasdecontrole\dowhile\bin\Debug\net7.0\DoWhile.dll
+C:\C#\c#-exs\estruturasdecontrole\dowhile\bin\Debug\net7.0\DoWhile.pdb
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.csproj.AssemblyReference.cache
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.AssemblyInfoInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.AssemblyInfo.cs
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.dll
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\refint\DoWhile.dll
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.pdb
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\DoWhile.genruntimeconfig.cache
+C:\C#\c#-exs\estruturasdecontrole\dowhile\obj\Debug\net7.0\ref\DoWhile.dll

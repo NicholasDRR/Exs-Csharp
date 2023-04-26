@@ -1,0 +1,15 @@
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\bin\Debug\net7.0\BreakContinue.exe
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\bin\Debug\net7.0\BreakContinue.deps.json
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\bin\Debug\net7.0\BreakContinue.runtimeconfig.json
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\bin\Debug\net7.0\BreakContinue.dll
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\bin\Debug\net7.0\BreakContinue.pdb
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.csproj.AssemblyReference.cache
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.AssemblyInfoInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.AssemblyInfo.cs
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.dll
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\refint\BreakContinue.dll
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.pdb
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\BreakContinue.genruntimeconfig.cache
+C:\C#\c#-exs\estruturasdecontrole\breakcontinue\obj\Debug\net7.0\ref\BreakContinue.dll

@@ -1,0 +1,15 @@
+C:\C#\c#-exs\estruturasdecontrole\for2\bin\Debug\net7.0\For2.exe
+C:\C#\c#-exs\estruturasdecontrole\for2\bin\Debug\net7.0\For2.deps.json
+C:\C#\c#-exs\estruturasdecontrole\for2\bin\Debug\net7.0\For2.runtimeconfig.json
+C:\C#\c#-exs\estruturasdecontrole\for2\bin\Debug\net7.0\For2.dll
+C:\C#\c#-exs\estruturasdecontrole\for2\bin\Debug\net7.0\For2.pdb
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.csproj.AssemblyReference.cache
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.AssemblyInfoInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.AssemblyInfo.cs
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.dll
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\refint\For2.dll
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.pdb
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\For2.genruntimeconfig.cache
+C:\C#\c#-exs\estruturasdecontrole\for2\obj\Debug\net7.0\ref\For2.dll

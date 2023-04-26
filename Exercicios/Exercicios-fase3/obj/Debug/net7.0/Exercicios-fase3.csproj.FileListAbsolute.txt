@@ -1,0 +1,15 @@
+C:\C#\c#-exs\exercicios\exercicios-fase3\bin\Debug\net7.0\Exercicios-fase3.exe
+C:\C#\c#-exs\exercicios\exercicios-fase3\bin\Debug\net7.0\Exercicios-fase3.deps.json
+C:\C#\c#-exs\exercicios\exercicios-fase3\bin\Debug\net7.0\Exercicios-fase3.runtimeconfig.json
+C:\C#\c#-exs\exercicios\exercicios-fase3\bin\Debug\net7.0\Exercicios-fase3.dll
+C:\C#\c#-exs\exercicios\exercicios-fase3\bin\Debug\net7.0\Exercicios-fase3.pdb
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.csproj.AssemblyReference.cache
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.AssemblyInfoInputs.cache
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.AssemblyInfo.cs
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.dll
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\refint\Exercicios-fase3.dll
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.pdb
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\Exercicios-fase3.genruntimeconfig.cache
+C:\C#\c#-exs\exercicios\exercicios-fase3\obj\Debug\net7.0\ref\Exercicios-fase3.dll

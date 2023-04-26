@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("IfElseIf")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ifelseif")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("IfElseIf")]
-[assembly: System.Reflection.AssemblyTitleAttribute("IfElseIf")]
+[assembly: System.Reflection.AssemblyProductAttribute("ifelseif")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ifelseif")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("While1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("while1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("While1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("While1")]
+[assembly: System.Reflection.AssemblyProductAttribute("while1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("while1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

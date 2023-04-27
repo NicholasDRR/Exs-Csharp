@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BreakContinue")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("breakcontinue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("BreakContinue")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BreakContinue")]
+[assembly: System.Reflection.AssemblyProductAttribute("breakcontinue")]
+[assembly: System.Reflection.AssemblyTitleAttribute("breakcontinue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

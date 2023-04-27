@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DoWhile")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("dowhile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DoWhile")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DoWhile")]
+[assembly: System.Reflection.AssemblyProductAttribute("dowhile")]
+[assembly: System.Reflection.AssemblyTitleAttribute("dowhile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

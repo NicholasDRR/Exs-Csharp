@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\bin\Debug\net7.0\MetodosComParametros.exe
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\bin\Debug\net7.0\MetodosComParametros.deps.json
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\bin\Debug\net7.0\MetodosComParametros.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\bin\Debug\net7.0\MetodosComParametros.dll
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\bin\Debug\net7.0\MetodosComParametros.pdb
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.dll
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\refint\MetodosComParametros.dll
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.pdb
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\MetodosComParametros.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\metodoscomparametros\obj\Debug\net7.0\ref\MetodosComParametros.dll

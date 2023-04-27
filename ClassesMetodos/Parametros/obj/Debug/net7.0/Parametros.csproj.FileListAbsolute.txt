@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\parametros\bin\Debug\net7.0\Parametros.exe
+C:\C#\c#-exs\classesmetodos\parametros\bin\Debug\net7.0\Parametros.deps.json
+C:\C#\c#-exs\classesmetodos\parametros\bin\Debug\net7.0\Parametros.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\parametros\bin\Debug\net7.0\Parametros.dll
+C:\C#\c#-exs\classesmetodos\parametros\bin\Debug\net7.0\Parametros.pdb
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.dll
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\refint\Parametros.dll
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.pdb
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\Parametros.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\parametros\obj\Debug\net7.0\ref\Parametros.dll

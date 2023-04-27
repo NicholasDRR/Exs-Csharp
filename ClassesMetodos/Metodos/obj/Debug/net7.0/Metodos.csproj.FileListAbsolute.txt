@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\metodos\bin\Debug\net7.0\Metodos.exe
+C:\C#\c#-exs\classesmetodos\metodos\bin\Debug\net7.0\Metodos.deps.json
+C:\C#\c#-exs\classesmetodos\metodos\bin\Debug\net7.0\Metodos.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\metodos\bin\Debug\net7.0\Metodos.dll
+C:\C#\c#-exs\classesmetodos\metodos\bin\Debug\net7.0\Metodos.pdb
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.dll
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\refint\Metodos.dll
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.pdb
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\Metodos.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\metodos\obj\Debug\net7.0\ref\Metodos.dll

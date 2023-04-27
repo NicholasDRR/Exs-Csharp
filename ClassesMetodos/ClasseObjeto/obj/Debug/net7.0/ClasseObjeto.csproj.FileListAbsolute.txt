@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\classeobjeto\bin\Debug\net7.0\ClasseObjeto.exe
+C:\C#\c#-exs\classesmetodos\classeobjeto\bin\Debug\net7.0\ClasseObjeto.deps.json
+C:\C#\c#-exs\classesmetodos\classeobjeto\bin\Debug\net7.0\ClasseObjeto.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\classeobjeto\bin\Debug\net7.0\ClasseObjeto.dll
+C:\C#\c#-exs\classesmetodos\classeobjeto\bin\Debug\net7.0\ClasseObjeto.pdb
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.dll
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\refint\ClasseObjeto.dll
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.pdb
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ClasseObjeto.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\classeobjeto\obj\Debug\net7.0\ref\ClasseObjeto.dll

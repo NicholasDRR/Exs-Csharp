@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodoscomparametros", "met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parametros", "parametros\parametros.csproj", "{6F92B287-E8EC-43CC-9A7A-737BCF9D4CC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construtor2", "construtor2\construtor2.csproj", "{AAF584AF-C43B-429F-9E64-873C95E5E052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "construtor", "construtor\construtor.csproj", "{5A85F66B-41D7-420E-8D68-60174B020CFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{6F92B287-E8EC-43CC-9A7A-737BCF9D4CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F92B287-E8EC-43CC-9A7A-737BCF9D4CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F92B287-E8EC-43CC-9A7A-737BCF9D4CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF584AF-C43B-429F-9E64-873C95E5E052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF584AF-C43B-429F-9E64-873C95E5E052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF584AF-C43B-429F-9E64-873C95E5E052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF584AF-C43B-429F-9E64-873C95E5E052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A85F66B-41D7-420E-8D68-60174B020CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A85F66B-41D7-420E-8D68-60174B020CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A85F66B-41D7-420E-8D68-60174B020CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A85F66B-41D7-420E-8D68-60174B020CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\C#\C#-exs\classesmetodos\construtor\bin\Debug\net7.0\Construtor.exe
+C:\C#\C#-exs\classesmetodos\construtor\bin\Debug\net7.0\Construtor.deps.json
+C:\C#\C#-exs\classesmetodos\construtor\bin\Debug\net7.0\Construtor.runtimeconfig.json
+C:\C#\C#-exs\classesmetodos\construtor\bin\Debug\net7.0\Construtor.dll
+C:\C#\C#-exs\classesmetodos\construtor\bin\Debug\net7.0\Construtor.pdb
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.csproj.AssemblyReference.cache
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.AssemblyInfoInputs.cache
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.AssemblyInfo.cs
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.dll
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\refint\Construtor.dll
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.pdb
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\Construtor.genruntimeconfig.cache
+C:\C#\C#-exs\classesmetodos\construtor\obj\Debug\net7.0\ref\Construtor.dll

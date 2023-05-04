@@ -1,0 +1,15 @@
+C:\C#\c#-exs\exercicios\classes-exs4\bin\Debug\net7.0\Classes-exs4.exe
+C:\C#\c#-exs\exercicios\classes-exs4\bin\Debug\net7.0\Classes-exs4.deps.json
+C:\C#\c#-exs\exercicios\classes-exs4\bin\Debug\net7.0\Classes-exs4.runtimeconfig.json
+C:\C#\c#-exs\exercicios\classes-exs4\bin\Debug\net7.0\Classes-exs4.dll
+C:\C#\c#-exs\exercicios\classes-exs4\bin\Debug\net7.0\Classes-exs4.pdb
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.csproj.AssemblyReference.cache
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.AssemblyInfoInputs.cache
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.AssemblyInfo.cs
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.dll
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\refint\Classes-exs4.dll
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.pdb
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\Classes-exs4.genruntimeconfig.cache
+C:\C#\c#-exs\exercicios\classes-exs4\obj\Debug\net7.0\ref\Classes-exs4.dll

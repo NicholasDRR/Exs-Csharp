@@ -1,0 +1,15 @@
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.csproj.AssemblyReference.cache
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.AssemblyInfoInputs.cache
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.AssemblyInfo.cs
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\classesmetodos\metodosestaticos\bin\Debug\net7.0\MetodosEstaticos.exe
+C:\C#\C#-exs\classesmetodos\metodosestaticos\bin\Debug\net7.0\MetodosEstaticos.deps.json
+C:\C#\C#-exs\classesmetodos\metodosestaticos\bin\Debug\net7.0\MetodosEstaticos.runtimeconfig.json
+C:\C#\C#-exs\classesmetodos\metodosestaticos\bin\Debug\net7.0\MetodosEstaticos.dll
+C:\C#\C#-exs\classesmetodos\metodosestaticos\bin\Debug\net7.0\MetodosEstaticos.pdb
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.dll
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\refint\MetodosEstaticos.dll
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.pdb
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\MetodosEstaticos.genruntimeconfig.cache
+C:\C#\C#-exs\classesmetodos\metodosestaticos\obj\Debug\net7.0\ref\MetodosEstaticos.dll

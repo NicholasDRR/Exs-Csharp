@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\bin\Debug\net7.0\ArgumentosPorReferencia.exe
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\bin\Debug\net7.0\ArgumentosPorReferencia.deps.json
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\bin\Debug\net7.0\ArgumentosPorReferencia.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\bin\Debug\net7.0\ArgumentosPorReferencia.dll
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\bin\Debug\net7.0\ArgumentosPorReferencia.pdb
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.dll
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\refint\ArgumentosPorReferencia.dll
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.pdb
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ArgumentosPorReferencia.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\argumentosporreferencia\obj\Debug\net7.0\ref\ArgumentosPorReferencia.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SobrecargaDeMetodos/1.0.0": {
+        "runtime": {
+          "SobrecargaDeMetodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SobrecargaDeMetodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

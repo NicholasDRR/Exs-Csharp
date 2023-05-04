@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\referenciaout\bin\Debug\net7.0\ReferenciaOut.exe
+C:\C#\c#-exs\classesmetodos\referenciaout\bin\Debug\net7.0\ReferenciaOut.deps.json
+C:\C#\c#-exs\classesmetodos\referenciaout\bin\Debug\net7.0\ReferenciaOut.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\referenciaout\bin\Debug\net7.0\ReferenciaOut.dll
+C:\C#\c#-exs\classesmetodos\referenciaout\bin\Debug\net7.0\ReferenciaOut.pdb
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.dll
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\refint\ReferenciaOut.dll
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.pdb
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ReferenciaOut.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\referenciaout\obj\Debug\net7.0\ref\ReferenciaOut.dll

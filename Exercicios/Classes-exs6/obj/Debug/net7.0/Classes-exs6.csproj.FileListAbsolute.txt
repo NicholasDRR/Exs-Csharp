@@ -1,0 +1,15 @@
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.csproj.AssemblyReference.cache
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.AssemblyInfoInputs.cache
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.AssemblyInfo.cs
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\exercicios\classes-exs6\bin\Debug\net7.0\Classes-exs6.exe
+C:\C#\C#-exs\exercicios\classes-exs6\bin\Debug\net7.0\Classes-exs6.deps.json
+C:\C#\C#-exs\exercicios\classes-exs6\bin\Debug\net7.0\Classes-exs6.runtimeconfig.json
+C:\C#\C#-exs\exercicios\classes-exs6\bin\Debug\net7.0\Classes-exs6.dll
+C:\C#\C#-exs\exercicios\classes-exs6\bin\Debug\net7.0\Classes-exs6.pdb
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.dll
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\refint\Classes-exs6.dll
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.pdb
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\Classes-exs6.genruntimeconfig.cache
+C:\C#\C#-exs\exercicios\classes-exs6\obj\Debug\net7.0\ref\Classes-exs6.dll

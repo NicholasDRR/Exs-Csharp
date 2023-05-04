@@ -1,0 +1,15 @@
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.csproj.AssemblyReference.cache
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.AssemblyInfoInputs.cache
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.AssemblyInfo.cs
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\Classesmetodos\parametrosopc\bin\Debug\net7.0\ParametrosOPC.exe
+C:\C#\C#-exs\Classesmetodos\parametrosopc\bin\Debug\net7.0\ParametrosOPC.deps.json
+C:\C#\C#-exs\Classesmetodos\parametrosopc\bin\Debug\net7.0\ParametrosOPC.runtimeconfig.json
+C:\C#\C#-exs\Classesmetodos\parametrosopc\bin\Debug\net7.0\ParametrosOPC.dll
+C:\C#\C#-exs\Classesmetodos\parametrosopc\bin\Debug\net7.0\ParametrosOPC.pdb
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.dll
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\refint\ParametrosOPC.dll
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.pdb
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ParametrosOPC.genruntimeconfig.cache
+C:\C#\C#-exs\Classesmetodos\parametrosopc\obj\Debug\net7.0\ref\ParametrosOPC.dll

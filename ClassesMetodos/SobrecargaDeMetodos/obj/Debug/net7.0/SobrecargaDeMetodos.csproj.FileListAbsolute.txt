@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\bin\Debug\net7.0\SobrecargaDeMetodos.exe
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\bin\Debug\net7.0\SobrecargaDeMetodos.deps.json
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\bin\Debug\net7.0\SobrecargaDeMetodos.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\bin\Debug\net7.0\SobrecargaDeMetodos.dll
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\bin\Debug\net7.0\SobrecargaDeMetodos.pdb
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.dll
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\refint\SobrecargaDeMetodos.dll
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.pdb
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\SobrecargaDeMetodos.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\sobrecargademetodos\obj\Debug\net7.0\ref\SobrecargaDeMetodos.dll

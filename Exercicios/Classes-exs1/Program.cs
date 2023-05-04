@@ -6,7 +6,7 @@ Console.WriteLine($"Assembler: {chevrolet.Assembler} ");
 Console.WriteLine($"Brand: {chevrolet.Brand} ");
 Console.WriteLine($"Year: {chevrolet.Year} ");
 Console.WriteLine($"Power: {chevrolet.Power} ");
-chevrolet.Accelerate("Onix");
+chevrolet.Accelerate(chevrolet.Brand);
 
 
 Console.WriteLine($"\n\nModel: {ford.Model} ");
@@ -14,7 +14,7 @@ Console.WriteLine($"Assembler: {ford.Assembler} ");
 Console.WriteLine($"Brand: {ford.Brand} ");
 Console.WriteLine($"Year: {ford.Year} ");
 Console.WriteLine($"Power: {ford.Power} ");
-ford.Accelerate("EcoSport");
+ford.Accelerate(ford.Brand);
 
 
 

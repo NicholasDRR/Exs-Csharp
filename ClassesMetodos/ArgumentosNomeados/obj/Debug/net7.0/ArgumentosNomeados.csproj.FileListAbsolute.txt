@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\bin\Debug\net7.0\ArgumentosNomeados.exe
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\bin\Debug\net7.0\ArgumentosNomeados.deps.json
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\bin\Debug\net7.0\ArgumentosNomeados.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\bin\Debug\net7.0\ArgumentosNomeados.dll
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\bin\Debug\net7.0\ArgumentosNomeados.pdb
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.dll
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\refint\ArgumentosNomeados.dll
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.pdb
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ArgumentosNomeados.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\argumentosnomeados\obj\Debug\net7.0\ref\ArgumentosNomeados.dll

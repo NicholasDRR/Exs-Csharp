@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\bin\Debug\net7.0\MetodosComRetorno.exe
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\bin\Debug\net7.0\MetodosComRetorno.deps.json
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\bin\Debug\net7.0\MetodosComRetorno.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\bin\Debug\net7.0\MetodosComRetorno.dll
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\bin\Debug\net7.0\MetodosComRetorno.pdb
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.dll
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\refint\MetodosComRetorno.dll
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.pdb
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\MetodosComRetorno.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\metodoscomretorno\obj\Debug\net7.0\ref\MetodosComRetorno.dll

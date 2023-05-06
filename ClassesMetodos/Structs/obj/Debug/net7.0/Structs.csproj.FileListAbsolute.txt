@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\structs\bin\Debug\net7.0\Structs.exe
+C:\C#\c#-exs\classesmetodos\structs\bin\Debug\net7.0\Structs.deps.json
+C:\C#\c#-exs\classesmetodos\structs\bin\Debug\net7.0\Structs.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\structs\bin\Debug\net7.0\Structs.dll
+C:\C#\c#-exs\classesmetodos\structs\bin\Debug\net7.0\Structs.pdb
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.dll
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\refint\Structs.dll
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.pdb
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\Structs.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\structs\obj\Debug\net7.0\ref\Structs.dll

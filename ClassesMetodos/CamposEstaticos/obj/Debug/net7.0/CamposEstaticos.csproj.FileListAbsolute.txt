@@ -1,0 +1,15 @@
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.csproj.AssemblyReference.cache
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.AssemblyInfoInputs.cache
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.AssemblyInfo.cs
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\classesmetodos\camposestaticos\bin\Debug\net7.0\CamposEstaticos.exe
+C:\C#\C#-exs\classesmetodos\camposestaticos\bin\Debug\net7.0\CamposEstaticos.deps.json
+C:\C#\C#-exs\classesmetodos\camposestaticos\bin\Debug\net7.0\CamposEstaticos.runtimeconfig.json
+C:\C#\C#-exs\classesmetodos\camposestaticos\bin\Debug\net7.0\CamposEstaticos.dll
+C:\C#\C#-exs\classesmetodos\camposestaticos\bin\Debug\net7.0\CamposEstaticos.pdb
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.dll
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\refint\CamposEstaticos.dll
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.pdb
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\CamposEstaticos.genruntimeconfig.cache
+C:\C#\C#-exs\classesmetodos\camposestaticos\obj\Debug\net7.0\ref\CamposEstaticos.dll

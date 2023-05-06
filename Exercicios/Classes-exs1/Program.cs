@@ -6,7 +6,7 @@ Console.WriteLine($"Assembler: {chevrolet.Assembler} ");
 Console.WriteLine($"Brand: {chevrolet.Brand} ");
 Console.WriteLine($"Year: {chevrolet.Year} ");
 Console.WriteLine($"Power: {chevrolet.Power} ");
-chevrolet.Accelerate(chevrolet.Brand);
+chevrolet.Accelerate();
 
 
 Console.WriteLine($"\n\nModel: {ford.Model} ");
@@ -14,7 +14,7 @@ Console.WriteLine($"Assembler: {ford.Assembler} ");
 Console.WriteLine($"Brand: {ford.Brand} ");
 Console.WriteLine($"Year: {ford.Year} ");
 Console.WriteLine($"Power: {ford.Power} ");
-ford.Accelerate(ford.Brand);
+ford.Accelerate();
 
 
 
@@ -24,9 +24,9 @@ public class Car {
     public string Brand;
     public int Year;
     public int Power;
-    public void Accelerate(string brand)
+    public void Accelerate()
     {
-        System.Console.WriteLine("Accelerating my " + brand);
+        System.Console.WriteLine("Accelerating my " + this.Brand);
     }
     public Car(string model, string assembler, string brand, int year, int power)
     {

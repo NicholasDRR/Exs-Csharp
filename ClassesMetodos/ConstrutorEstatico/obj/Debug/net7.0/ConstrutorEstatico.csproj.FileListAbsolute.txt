@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\Construtorestatico\bin\Debug\net7.0\ConstrutorEstatico.exe
+C:\C#\c#-exs\classesmetodos\Construtorestatico\bin\Debug\net7.0\ConstrutorEstatico.deps.json
+C:\C#\c#-exs\classesmetodos\Construtorestatico\bin\Debug\net7.0\ConstrutorEstatico.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\Construtorestatico\bin\Debug\net7.0\ConstrutorEstatico.dll
+C:\C#\c#-exs\classesmetodos\Construtorestatico\bin\Debug\net7.0\ConstrutorEstatico.pdb
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.dll
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\refint\ConstrutorEstatico.dll
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.pdb
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ConstrutorEstatico.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\Construtorestatico\obj\Debug\net7.0\ref\ConstrutorEstatico.dll

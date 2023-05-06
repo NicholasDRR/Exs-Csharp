@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\propriedades\bin\Debug\net7.0\Propriedades.exe
+C:\C#\c#-exs\classesmetodos\propriedades\bin\Debug\net7.0\Propriedades.deps.json
+C:\C#\c#-exs\classesmetodos\propriedades\bin\Debug\net7.0\Propriedades.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\propriedades\bin\Debug\net7.0\Propriedades.dll
+C:\C#\c#-exs\classesmetodos\propriedades\bin\Debug\net7.0\Propriedades.pdb
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.dll
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\refint\Propriedades.dll
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.pdb
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\Propriedades.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\propriedades\obj\Debug\net7.0\ref\Propriedades.dll

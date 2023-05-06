@@ -1,0 +1,15 @@
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.csproj.AssemblyReference.cache
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.AssemblyInfoInputs.cache
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.AssemblyInfo.cs
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\exercicios\classes-exs9\bin\Debug\net7.0\Classes-exs9.exe
+C:\C#\c#-exs\exercicios\classes-exs9\bin\Debug\net7.0\Classes-exs9.deps.json
+C:\C#\c#-exs\exercicios\classes-exs9\bin\Debug\net7.0\Classes-exs9.runtimeconfig.json
+C:\C#\c#-exs\exercicios\classes-exs9\bin\Debug\net7.0\Classes-exs9.dll
+C:\C#\c#-exs\exercicios\classes-exs9\bin\Debug\net7.0\Classes-exs9.pdb
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.dll
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\refint\Classes-exs9.dll
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.pdb
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\Classes-exs9.genruntimeconfig.cache
+C:\C#\c#-exs\exercicios\classes-exs9\obj\Debug\net7.0\ref\Classes-exs9.dll

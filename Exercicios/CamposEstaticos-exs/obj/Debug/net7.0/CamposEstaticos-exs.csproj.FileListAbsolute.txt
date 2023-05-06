@@ -1,0 +1,15 @@
+C:\C#\C#-exs\exercicios\camposestaticos-exs\bin\Debug\net7.0\CamposEstaticos-exs.exe
+C:\C#\C#-exs\exercicios\camposestaticos-exs\bin\Debug\net7.0\CamposEstaticos-exs.deps.json
+C:\C#\C#-exs\exercicios\camposestaticos-exs\bin\Debug\net7.0\CamposEstaticos-exs.runtimeconfig.json
+C:\C#\C#-exs\exercicios\camposestaticos-exs\bin\Debug\net7.0\CamposEstaticos-exs.dll
+C:\C#\C#-exs\exercicios\camposestaticos-exs\bin\Debug\net7.0\CamposEstaticos-exs.pdb
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.csproj.AssemblyReference.cache
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.AssemblyInfoInputs.cache
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.AssemblyInfo.cs
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.csproj.CoreCompileInputs.cache
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.dll
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\refint\CamposEstaticos-exs.dll
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.pdb
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\CamposEstaticos-exs.genruntimeconfig.cache
+C:\C#\C#-exs\exercicios\camposestaticos-exs\obj\Debug\net7.0\ref\CamposEstaticos-exs.dll

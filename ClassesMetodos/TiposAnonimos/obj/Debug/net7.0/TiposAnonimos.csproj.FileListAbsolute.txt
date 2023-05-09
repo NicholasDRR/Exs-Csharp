@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\tiposanonimos\bin\Debug\net7.0\TiposAnonimos.exe
+C:\C#\c#-exs\classesmetodos\tiposanonimos\bin\Debug\net7.0\TiposAnonimos.deps.json
+C:\C#\c#-exs\classesmetodos\tiposanonimos\bin\Debug\net7.0\TiposAnonimos.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\tiposanonimos\bin\Debug\net7.0\TiposAnonimos.dll
+C:\C#\c#-exs\classesmetodos\tiposanonimos\bin\Debug\net7.0\TiposAnonimos.pdb
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.dll
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\refint\TiposAnonimos.dll
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.pdb
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\TiposAnonimos.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\tiposanonimos\obj\Debug\net7.0\ref\TiposAnonimos.dll

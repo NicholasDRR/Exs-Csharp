@@ -1,0 +1,15 @@
+C:\C#\c#-exs\classesmetodos\enum\bin\Debug\net7.0\Enum.exe
+C:\C#\c#-exs\classesmetodos\enum\bin\Debug\net7.0\Enum.deps.json
+C:\C#\c#-exs\classesmetodos\enum\bin\Debug\net7.0\Enum.runtimeconfig.json
+C:\C#\c#-exs\classesmetodos\enum\bin\Debug\net7.0\Enum.dll
+C:\C#\c#-exs\classesmetodos\enum\bin\Debug\net7.0\Enum.pdb
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.csproj.AssemblyReference.cache
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.AssemblyInfoInputs.cache
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.AssemblyInfo.cs
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.dll
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\refint\Enum.dll
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.pdb
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\Enum.genruntimeconfig.cache
+C:\C#\c#-exs\classesmetodos\enum\obj\Debug\net7.0\ref\Enum.dll

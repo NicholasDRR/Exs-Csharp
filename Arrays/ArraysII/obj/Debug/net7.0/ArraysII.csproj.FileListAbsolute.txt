@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\arraysii\bin\Debug\net7.0\ArraysII.exe
+C:\C#\c#-exs\arrays\arraysii\bin\Debug\net7.0\ArraysII.deps.json
+C:\C#\c#-exs\arrays\arraysii\bin\Debug\net7.0\ArraysII.runtimeconfig.json
+C:\C#\c#-exs\arrays\arraysii\bin\Debug\net7.0\ArraysII.dll
+C:\C#\c#-exs\arrays\arraysii\bin\Debug\net7.0\ArraysII.pdb
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.dll
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\refint\ArraysII.dll
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.pdb
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ArraysII.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\arraysii\obj\Debug\net7.0\ref\ArraysII.dll

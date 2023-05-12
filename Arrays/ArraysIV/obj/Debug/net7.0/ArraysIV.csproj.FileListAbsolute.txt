@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\arraysiv\bin\Debug\net7.0\ArraysIV.exe
+C:\C#\c#-exs\arrays\arraysiv\bin\Debug\net7.0\ArraysIV.deps.json
+C:\C#\c#-exs\arrays\arraysiv\bin\Debug\net7.0\ArraysIV.runtimeconfig.json
+C:\C#\c#-exs\arrays\arraysiv\bin\Debug\net7.0\ArraysIV.dll
+C:\C#\c#-exs\arrays\arraysiv\bin\Debug\net7.0\ArraysIV.pdb
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.dll
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\refint\ArraysIV.dll
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.pdb
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ArraysIV.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\arraysiv\obj\Debug\net7.0\ref\ArraysIV.dll

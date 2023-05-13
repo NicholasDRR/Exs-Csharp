@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\modificadorparams\bin\Debug\net7.0\ModificadorParams.exe
+C:\C#\c#-exs\arrays\modificadorparams\bin\Debug\net7.0\ModificadorParams.deps.json
+C:\C#\c#-exs\arrays\modificadorparams\bin\Debug\net7.0\ModificadorParams.runtimeconfig.json
+C:\C#\c#-exs\arrays\modificadorparams\bin\Debug\net7.0\ModificadorParams.dll
+C:\C#\c#-exs\arrays\modificadorparams\bin\Debug\net7.0\ModificadorParams.pdb
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.dll
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\refint\ModificadorParams.dll
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.pdb
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ModificadorParams.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\modificadorparams\obj\Debug\net7.0\ref\ModificadorParams.dll

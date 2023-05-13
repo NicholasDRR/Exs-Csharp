@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "classes-exs11", "classes-ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste", "teste\teste.csproj", "{E2513B33-3E1D-4C01-BD58-1A5719D76224}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays-exs2", "arrays-exs2\arrays-exs2.csproj", "{E168B2B8-4371-4B82-A418-EAC16A525618}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{E2513B33-3E1D-4C01-BD58-1A5719D76224}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2513B33-3E1D-4C01-BD58-1A5719D76224}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2513B33-3E1D-4C01-BD58-1A5719D76224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E168B2B8-4371-4B82-A418-EAC16A525618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E168B2B8-4371-4B82-A418-EAC16A525618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E168B2B8-4371-4B82-A418-EAC16A525618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E168B2B8-4371-4B82-A418-EAC16A525618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

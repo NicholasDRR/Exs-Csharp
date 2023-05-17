@@ -1,0 +1,15 @@
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.csproj.AssemblyReference.cache
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.AssemblyInfoInputs.cache
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.AssemblyInfo.cs
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\exercicios\arraylisti\bin\Debug\net7.0\ArrayListI.exe
+C:\C#\c#-exs\exercicios\arraylisti\bin\Debug\net7.0\ArrayListI.deps.json
+C:\C#\c#-exs\exercicios\arraylisti\bin\Debug\net7.0\ArrayListI.runtimeconfig.json
+C:\C#\c#-exs\exercicios\arraylisti\bin\Debug\net7.0\ArrayListI.dll
+C:\C#\c#-exs\exercicios\arraylisti\bin\Debug\net7.0\ArrayListI.pdb
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.dll
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\refint\ArrayListI.dll
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.pdb
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ArrayListI.genruntimeconfig.cache
+C:\C#\c#-exs\exercicios\arraylisti\obj\Debug\net7.0\ref\ArrayListI.dll

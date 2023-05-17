@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\list\bin\Debug\net7.0\List.exe
+C:\C#\c#-exs\arrays\list\bin\Debug\net7.0\List.deps.json
+C:\C#\c#-exs\arrays\list\bin\Debug\net7.0\List.runtimeconfig.json
+C:\C#\c#-exs\arrays\list\bin\Debug\net7.0\List.dll
+C:\C#\c#-exs\arrays\list\bin\Debug\net7.0\List.pdb
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.dll
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\refint\List.dll
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.pdb
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\List.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\list\obj\Debug\net7.0\ref\List.dll

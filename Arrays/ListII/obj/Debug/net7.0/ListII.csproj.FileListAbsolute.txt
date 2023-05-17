@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\listii\bin\Debug\net7.0\ListII.exe
+C:\C#\c#-exs\arrays\listii\bin\Debug\net7.0\ListII.deps.json
+C:\C#\c#-exs\arrays\listii\bin\Debug\net7.0\ListII.runtimeconfig.json
+C:\C#\c#-exs\arrays\listii\bin\Debug\net7.0\ListII.dll
+C:\C#\c#-exs\arrays\listii\bin\Debug\net7.0\ListII.pdb
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.dll
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\refint\ListII.dll
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.pdb
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ListII.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\listii\obj\Debug\net7.0\ref\ListII.dll

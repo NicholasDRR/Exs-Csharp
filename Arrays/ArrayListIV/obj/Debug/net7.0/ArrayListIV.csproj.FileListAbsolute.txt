@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\arraylistiv\bin\Debug\net7.0\ArrayListIV.exe
+C:\C#\c#-exs\arrays\arraylistiv\bin\Debug\net7.0\ArrayListIV.deps.json
+C:\C#\c#-exs\arrays\arraylistiv\bin\Debug\net7.0\ArrayListIV.runtimeconfig.json
+C:\C#\c#-exs\arrays\arraylistiv\bin\Debug\net7.0\ArrayListIV.dll
+C:\C#\c#-exs\arrays\arraylistiv\bin\Debug\net7.0\ArrayListIV.pdb
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.dll
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\refint\ArrayListIV.dll
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.pdb
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ArrayListIV.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\arraylistiv\obj\Debug\net7.0\ref\ArrayListIV.dll

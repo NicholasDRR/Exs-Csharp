@@ -1,0 +1,15 @@
+C:\C#\c#-exs\arrays\listfind\bin\Debug\net7.0\ListFind.exe
+C:\C#\c#-exs\arrays\listfind\bin\Debug\net7.0\ListFind.deps.json
+C:\C#\c#-exs\arrays\listfind\bin\Debug\net7.0\ListFind.runtimeconfig.json
+C:\C#\c#-exs\arrays\listfind\bin\Debug\net7.0\ListFind.dll
+C:\C#\c#-exs\arrays\listfind\bin\Debug\net7.0\ListFind.pdb
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.csproj.AssemblyReference.cache
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.AssemblyInfoInputs.cache
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.AssemblyInfo.cs
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.csproj.CoreCompileInputs.cache
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.dll
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\refint\ListFind.dll
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.pdb
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ListFind.genruntimeconfig.cache
+C:\C#\c#-exs\arrays\listfind\obj\Debug\net7.0\ref\ListFind.dll

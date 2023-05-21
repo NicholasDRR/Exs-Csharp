@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listii", "listii\listii.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listfind", "listfind\listfind.csproj", "{3C3EBE01-3E81-4DAE-94AD-C696C1E78898}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listenumerable", "listenumerable\listenumerable.csproj", "{6A51FFC8-7652-497B-B41E-366F5E169531}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{3C3EBE01-3E81-4DAE-94AD-C696C1E78898}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C3EBE01-3E81-4DAE-94AD-C696C1E78898}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C3EBE01-3E81-4DAE-94AD-C696C1E78898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A51FFC8-7652-497B-B41E-366F5E169531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A51FFC8-7652-497B-B41E-366F5E169531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A51FFC8-7652-497B-B41E-366F5E169531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A51FFC8-7652-497B-B41E-366F5E169531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

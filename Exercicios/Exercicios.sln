@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays-exs2", "arrays-exs2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraylisti", "arraylisti\arraylisti.csproj", "{3DB3F838-1C88-4487-8DB1-6631E8E325F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lists-exs1", "lists-exs1\lists-exs1.csproj", "{E44C1F28-6048-47E0-9287-6441FF6D130E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,5 +116,9 @@ Global
 		{3DB3F838-1C88-4487-8DB1-6631E8E325F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB3F838-1C88-4487-8DB1-6631E8E325F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB3F838-1C88-4487-8DB1-6631E8E325F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E44C1F28-6048-47E0-9287-6441FF6D130E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44C1F28-6048-47E0-9287-6441FF6D130E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44C1F28-6048-47E0-9287-6441FF6D130E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44C1F28-6048-47E0-9287-6441FF6D130E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

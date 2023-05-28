@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ListFind")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("listfind")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ListFind")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ListFind")]
+[assembly: System.Reflection.AssemblyProductAttribute("listfind")]
+[assembly: System.Reflection.AssemblyTitleAttribute("listfind")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

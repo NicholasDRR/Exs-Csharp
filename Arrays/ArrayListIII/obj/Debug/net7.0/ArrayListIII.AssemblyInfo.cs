@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArrayListIII")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("arraylistiii")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArrayListIII")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArrayListIII")]
+[assembly: System.Reflection.AssemblyProductAttribute("arraylistiii")]
+[assembly: System.Reflection.AssemblyTitleAttribute("arraylistiii")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

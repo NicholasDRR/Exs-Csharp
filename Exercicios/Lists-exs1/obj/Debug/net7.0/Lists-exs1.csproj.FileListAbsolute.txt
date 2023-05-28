@@ -1,0 +1,15 @@
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.csproj.AssemblyReference.cache
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.AssemblyInfoInputs.cache
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.AssemblyInfo.cs
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\exercicios\lists-exs1\bin\Debug\net7.0\Lists-exs1.exe
+C:\Exs-Csharp\exercicios\lists-exs1\bin\Debug\net7.0\Lists-exs1.deps.json
+C:\Exs-Csharp\exercicios\lists-exs1\bin\Debug\net7.0\Lists-exs1.runtimeconfig.json
+C:\Exs-Csharp\exercicios\lists-exs1\bin\Debug\net7.0\Lists-exs1.dll
+C:\Exs-Csharp\exercicios\lists-exs1\bin\Debug\net7.0\Lists-exs1.pdb
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.dll
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\refint\Lists-exs1.dll
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.pdb
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\Lists-exs1.genruntimeconfig.cache
+C:\Exs-Csharp\exercicios\lists-exs1\obj\Debug\net7.0\ref\Lists-exs1.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ArraysIV")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("arraysiv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ArraysIV")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ArraysIV")]
+[assembly: System.Reflection.AssemblyProductAttribute("arraysiv")]
+[assembly: System.Reflection.AssemblyTitleAttribute("arraysiv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

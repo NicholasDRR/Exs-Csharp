@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listfind", "listfind\listfi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listenumerable", "listenumerable\listenumerable.csproj", "{6A51FFC8-7652-497B-B41E-366F5E169531}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indexadores", "indexadores\indexadores.csproj", "{1E0E0757-2F50-4D5B-BD3D-25DFE35EA09A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random", "random\random.csproj", "{EBE9892D-CA9A-487B-A76D-5CD6DFB7EF1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +94,13 @@ Global
 		{6A51FFC8-7652-497B-B41E-366F5E169531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A51FFC8-7652-497B-B41E-366F5E169531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A51FFC8-7652-497B-B41E-366F5E169531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0E0757-2F50-4D5B-BD3D-25DFE35EA09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0E0757-2F50-4D5B-BD3D-25DFE35EA09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0E0757-2F50-4D5B-BD3D-25DFE35EA09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0E0757-2F50-4D5B-BD3D-25DFE35EA09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE9892D-CA9A-487B-A76D-5CD6DFB7EF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE9892D-CA9A-487B-A76D-5CD6DFB7EF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE9892D-CA9A-487B-A76D-5CD6DFB7EF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE9892D-CA9A-487B-A76D-5CD6DFB7EF1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

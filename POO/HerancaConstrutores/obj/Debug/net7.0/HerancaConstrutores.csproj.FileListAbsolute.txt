@@ -1,0 +1,15 @@
+C:\Exs-Csharp\POO\herancaconstrutores\bin\Debug\net7.0\HerancaConstrutores.exe
+C:\Exs-Csharp\POO\herancaconstrutores\bin\Debug\net7.0\HerancaConstrutores.deps.json
+C:\Exs-Csharp\POO\herancaconstrutores\bin\Debug\net7.0\HerancaConstrutores.runtimeconfig.json
+C:\Exs-Csharp\POO\herancaconstrutores\bin\Debug\net7.0\HerancaConstrutores.dll
+C:\Exs-Csharp\POO\herancaconstrutores\bin\Debug\net7.0\HerancaConstrutores.pdb
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.csproj.AssemblyReference.cache
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.AssemblyInfoInputs.cache
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.AssemblyInfo.cs
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.dll
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\refint\HerancaConstrutores.dll
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.pdb
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\HerancaConstrutores.genruntimeconfig.cache
+C:\Exs-Csharp\POO\herancaconstrutores\obj\Debug\net7.0\ref\HerancaConstrutores.dll

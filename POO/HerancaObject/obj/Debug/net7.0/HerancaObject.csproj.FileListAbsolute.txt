@@ -1,0 +1,15 @@
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.csproj.AssemblyReference.cache
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.AssemblyInfoInputs.cache
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.AssemblyInfo.cs
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\POO\herancaobject\bin\Debug\net7.0\HerancaObject.exe
+C:\Exs-Csharp\POO\herancaobject\bin\Debug\net7.0\HerancaObject.deps.json
+C:\Exs-Csharp\POO\herancaobject\bin\Debug\net7.0\HerancaObject.runtimeconfig.json
+C:\Exs-Csharp\POO\herancaobject\bin\Debug\net7.0\HerancaObject.dll
+C:\Exs-Csharp\POO\herancaobject\bin\Debug\net7.0\HerancaObject.pdb
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.dll
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\refint\HerancaObject.dll
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.pdb
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\HerancaObject.genruntimeconfig.cache
+C:\Exs-Csharp\POO\herancaobject\obj\Debug\net7.0\ref\HerancaObject.dll

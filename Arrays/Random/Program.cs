@@ -13,7 +13,7 @@ System.Console.WriteLine("Nexts\n");
 System.Console.WriteLine(random.Next());
 System.Console.WriteLine(random.Next(1));
 System.Console.WriteLine(random.Next(0, 10));
-System.Console.WriteLine(random.NextDouble()\n);
+System.Console.WriteLine(random.NextDouble());
 
 System.Console.WriteLine("Laço For\n");
 

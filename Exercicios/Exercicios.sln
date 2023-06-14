@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lists-exs1", "lists-exs1\li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colecao-exs1", "colecao-exs1\colecao-exs1.csproj", "{A64C34D3-6ABC-4F56-BC7B-1A15F29837A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heranca-exs1", "heranca-exs1\heranca-exs1.csproj", "{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{A64C34D3-6ABC-4F56-BC7B-1A15F29837A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A64C34D3-6ABC-4F56-BC7B-1A15F29837A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A64C34D3-6ABC-4F56-BC7B-1A15F29837A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

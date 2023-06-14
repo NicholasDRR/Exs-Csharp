@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herancanew", "herancanew\he
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaVirtualOverride", "HerancaVirtualOverride\HerancaVirtualOverride.csproj", "{96335B39-4628-4A2D-A1A5-3ADECCCB7355}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herancasealed", "herancasealed\herancasealed.csproj", "{1931977E-9C27-4B33-B950-FADC5C2820E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{96335B39-4628-4A2D-A1A5-3ADECCCB7355}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96335B39-4628-4A2D-A1A5-3ADECCCB7355}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96335B39-4628-4A2D-A1A5-3ADECCCB7355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1931977E-9C27-4B33-B950-FADC5C2820E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1931977E-9C27-4B33-B950-FADC5C2820E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1931977E-9C27-4B33-B950-FADC5C2820E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1931977E-9C27-4B33-B950-FADC5C2820E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

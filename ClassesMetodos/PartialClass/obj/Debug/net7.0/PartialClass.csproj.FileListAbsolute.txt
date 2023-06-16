@@ -1,0 +1,15 @@
+C:\Exs-Csharp\classesmetodos\partialclass\bin\Debug\net7.0\PartialClass.exe
+C:\Exs-Csharp\classesmetodos\partialclass\bin\Debug\net7.0\PartialClass.deps.json
+C:\Exs-Csharp\classesmetodos\partialclass\bin\Debug\net7.0\PartialClass.runtimeconfig.json
+C:\Exs-Csharp\classesmetodos\partialclass\bin\Debug\net7.0\PartialClass.dll
+C:\Exs-Csharp\classesmetodos\partialclass\bin\Debug\net7.0\PartialClass.pdb
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.csproj.AssemblyReference.cache
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.AssemblyInfoInputs.cache
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.AssemblyInfo.cs
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.dll
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\refint\PartialClass.dll
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.pdb
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\PartialClass.genruntimeconfig.cache
+C:\Exs-Csharp\classesmetodos\partialclass\obj\Debug\net7.0\ref\PartialClass.dll

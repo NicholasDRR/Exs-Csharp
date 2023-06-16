@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colecao-exs1", "colecao-exs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heranca-exs1", "heranca-exs1\heranca-exs1.csproj", "{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface-exs1", "interface-exs1\interface-exs1.csproj", "{EFADDD77-4100-4D09-89F2-D35C053F0E0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -132,5 +134,9 @@ Global
 		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B9548DD-E0FA-47B7-9E56-EF1C723D3B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFADDD77-4100-4D09-89F2-D35C053F0E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFADDD77-4100-4D09-89F2-D35C053F0E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFADDD77-4100-4D09-89F2-D35C053F0E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFADDD77-4100-4D09-89F2-D35C053F0E0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

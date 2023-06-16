@@ -1,0 +1,15 @@
+C:\Exs-Csharp\poo\downupcasting\bin\Debug\net7.0\DownUpCasting.exe
+C:\Exs-Csharp\poo\downupcasting\bin\Debug\net7.0\DownUpCasting.deps.json
+C:\Exs-Csharp\poo\downupcasting\bin\Debug\net7.0\DownUpCasting.runtimeconfig.json
+C:\Exs-Csharp\poo\downupcasting\bin\Debug\net7.0\DownUpCasting.dll
+C:\Exs-Csharp\poo\downupcasting\bin\Debug\net7.0\DownUpCasting.pdb
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.csproj.AssemblyReference.cache
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.AssemblyInfoInputs.cache
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.AssemblyInfo.cs
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.dll
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\refint\DownUpCasting.dll
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.pdb
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\DownUpCasting.genruntimeconfig.cache
+C:\Exs-Csharp\poo\downupcasting\obj\Debug\net7.0\ref\DownUpCasting.dll

@@ -1,0 +1,15 @@
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.csproj.AssemblyReference.cache
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.AssemblyInfoInputs.cache
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.AssemblyInfo.cs
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\poo\abstrata\bin\Debug\net7.0\Abstrata.exe
+C:\Exs-Csharp\poo\abstrata\bin\Debug\net7.0\Abstrata.deps.json
+C:\Exs-Csharp\poo\abstrata\bin\Debug\net7.0\Abstrata.runtimeconfig.json
+C:\Exs-Csharp\poo\abstrata\bin\Debug\net7.0\Abstrata.dll
+C:\Exs-Csharp\poo\abstrata\bin\Debug\net7.0\Abstrata.pdb
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.dll
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\refint\Abstrata.dll
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.pdb
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\Abstrata.genruntimeconfig.cache
+C:\Exs-Csharp\poo\abstrata\obj\Debug\net7.0\ref\Abstrata.dll

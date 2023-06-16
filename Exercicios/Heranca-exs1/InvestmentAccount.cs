@@ -4,6 +4,13 @@ namespace Investment;
 
 public class InvestmentAccount : Account
 {
+
+    public InvestmentAccount(int number, string clientName)
+    {
+        this.Number = number;
+        this.ClientName = clientName;
+    }
+
     public override void Deposit(int value) 
     {
        decimal interest = value * 0.09m;

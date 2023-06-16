@@ -1,23 +1,12 @@
 namespace BaseAccount;
 
-public class Account
+public abstract class Account
 {
-    private decimal balance;
+    private decimal balance = 0;
     public decimal Balance
     {
         get{return balance;}
-        
-        set
-        {
-            if (value < 0)
-            {
-                value = 0;
-            }
-            else
-            {
-                balance = value;
-            }
-        }
+        set{balance = value;}
 
     }
     public int Number { get; set; }

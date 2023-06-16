@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trycatch", "trycatch\trycat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiposanonimos", "tiposanonimos\tiposanonimos.csproj", "{94EE4040-10BD-4DDB-80BE-5783221181B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partialclass", "partialclass\partialclass.csproj", "{4C051880-4955-469A-BB9E-D5D93386D8F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{94EE4040-10BD-4DDB-80BE-5783221181B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94EE4040-10BD-4DDB-80BE-5783221181B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94EE4040-10BD-4DDB-80BE-5783221181B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C051880-4955-469A-BB9E-D5D93386D8F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C051880-4955-469A-BB9E-D5D93386D8F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C051880-4955-469A-BB9E-D5D93386D8F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C051880-4955-469A-BB9E-D5D93386D8F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

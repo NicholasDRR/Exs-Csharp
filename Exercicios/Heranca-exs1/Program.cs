@@ -2,25 +2,34 @@
 using Saving;
 using Checking;
 
-//CheckingAccount account = new();
-//
-//account.ClientName = "Bruna";
-//account.Number = 15;
-//account.Deposit(15);
-//account.WithDraw(13);
-//account.ShowBalance();
+CheckingAccount checkingAccount = new(clientName: "Bruna", number: 15);
 
-//SavingAccount account = new();
-//
-//account.ClientName = "Bruna";
-//account.Number = 15;
-//account.WithDraw(2);
-//account.ShowBalance();
+checkingAccount.Deposit(15);     
+checkingAccount.WithDraw(19);    
+checkingAccount.ShowBalance();   
 
-//InvestmentAccount account = new();
-//
-//account.ClientName = "Bruna";
-//account.Number = 12;
-//account.Deposit(15);
-//account.WithDraw(10);
-//account.ShowBalance();
+// Account number: 15
+// Name Bruna 
+// Your balance: -4  
+
+
+SavingAccount savingAccount = new(clientName: "Bruna", number: 15);
+
+savingAccount.WithDraw(2);
+savingAccount.ShowBalance();
+
+// Cannot withdraw, Balance: 0
+// Account number: 15
+// Name Bruna
+// Your balance: 0
+
+
+InvestmentAccount investmentAccount = new(clientName: "Bruna", number: 15);
+
+investmentAccount.Deposit(15);
+investmentAccount.WithDraw(10);
+investmentAccount.ShowBalance();
+
+//Account number: 15
+//Name Bruna
+//Your balance: 3,55

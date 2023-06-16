@@ -1,0 +1,15 @@
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.csproj.AssemblyReference.cache
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.AssemblyInfoInputs.cache
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.AssemblyInfo.cs
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\poo\interface1\bin\Debug\net7.0\Interface1.exe
+C:\Exs-Csharp\poo\interface1\bin\Debug\net7.0\Interface1.deps.json
+C:\Exs-Csharp\poo\interface1\bin\Debug\net7.0\Interface1.runtimeconfig.json
+C:\Exs-Csharp\poo\interface1\bin\Debug\net7.0\Interface1.dll
+C:\Exs-Csharp\poo\interface1\bin\Debug\net7.0\Interface1.pdb
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.dll
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\refint\Interface1.dll
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.pdb
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\Interface1.genruntimeconfig.cache
+C:\Exs-Csharp\poo\interface1\obj\Debug\net7.0\ref\Interface1.dll

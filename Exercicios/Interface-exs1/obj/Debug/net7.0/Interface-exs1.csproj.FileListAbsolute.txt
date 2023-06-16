@@ -1,0 +1,15 @@
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.csproj.AssemblyReference.cache
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.AssemblyInfoInputs.cache
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.AssemblyInfo.cs
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\exercicios\interface-exs1\bin\Debug\net7.0\Interface-exs1.exe
+C:\Exs-Csharp\exercicios\interface-exs1\bin\Debug\net7.0\Interface-exs1.deps.json
+C:\Exs-Csharp\exercicios\interface-exs1\bin\Debug\net7.0\Interface-exs1.runtimeconfig.json
+C:\Exs-Csharp\exercicios\interface-exs1\bin\Debug\net7.0\Interface-exs1.dll
+C:\Exs-Csharp\exercicios\interface-exs1\bin\Debug\net7.0\Interface-exs1.pdb
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.dll
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\refint\Interface-exs1.dll
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.pdb
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\Interface-exs1.genruntimeconfig.cache
+C:\Exs-Csharp\exercicios\interface-exs1\obj\Debug\net7.0\ref\Interface-exs1.dll

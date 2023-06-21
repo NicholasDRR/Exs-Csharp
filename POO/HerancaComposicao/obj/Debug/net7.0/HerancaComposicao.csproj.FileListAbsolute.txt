@@ -1,0 +1,15 @@
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.csproj.AssemblyReference.cache
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.AssemblyInfoInputs.cache
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.AssemblyInfo.cs
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\poo\herancacomposicao\bin\Debug\net7.0\HerancaComposicao.exe
+C:\Exs-Csharp\poo\herancacomposicao\bin\Debug\net7.0\HerancaComposicao.deps.json
+C:\Exs-Csharp\poo\herancacomposicao\bin\Debug\net7.0\HerancaComposicao.runtimeconfig.json
+C:\Exs-Csharp\poo\herancacomposicao\bin\Debug\net7.0\HerancaComposicao.dll
+C:\Exs-Csharp\poo\herancacomposicao\bin\Debug\net7.0\HerancaComposicao.pdb
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.dll
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\refint\HerancaComposicao.dll
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.pdb
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\HerancaComposicao.genruntimeconfig.cache
+C:\Exs-Csharp\poo\herancacomposicao\obj\Debug\net7.0\ref\HerancaComposicao.dll

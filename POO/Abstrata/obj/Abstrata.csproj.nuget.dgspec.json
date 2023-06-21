@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exs-Csharp\\poo\\abstrata\\Abstrata.csproj": {}
+    "c:\\Exs-Csharp\\POO\\abstrata\\abstrata.csproj": {}
   },
   "projects": {
-    "C:\\Exs-Csharp\\poo\\abstrata\\Abstrata.csproj": {
+    "c:\\Exs-Csharp\\POO\\abstrata\\abstrata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exs-Csharp\\poo\\abstrata\\Abstrata.csproj",
-        "projectName": "Abstrata",
-        "projectPath": "C:\\Exs-Csharp\\poo\\abstrata\\Abstrata.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\POO\\abstrata\\abstrata.csproj",
+        "projectName": "abstrata",
+        "projectPath": "c:\\Exs-Csharp\\POO\\abstrata\\abstrata.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Exs-Csharp\\poo\\abstrata\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\POO\\abstrata\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"

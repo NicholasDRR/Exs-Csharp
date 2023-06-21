@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\c#-exs\\exercicios\\exercicios-fase3\\Exercicios-fase3.csproj": {}
+    "c:\\Exs-Csharp\\Exercicios\\exercicios-fase3\\exercicios-fase3.csproj": {}
   },
   "projects": {
-    "C:\\C#\\c#-exs\\exercicios\\exercicios-fase3\\Exercicios-fase3.csproj": {
+    "c:\\Exs-Csharp\\Exercicios\\exercicios-fase3\\exercicios-fase3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\c#-exs\\exercicios\\exercicios-fase3\\Exercicios-fase3.csproj",
-        "projectName": "Exercicios-fase3",
-        "projectPath": "C:\\C#\\c#-exs\\exercicios\\exercicios-fase3\\Exercicios-fase3.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\exercicios-fase3\\exercicios-fase3.csproj",
+        "projectName": "exercicios-fase3",
+        "projectPath": "c:\\Exs-Csharp\\Exercicios\\exercicios-fase3\\exercicios-fase3.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\c#-exs\\exercicios\\exercicios-fase3\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\Exercicios\\exercicios-fase3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

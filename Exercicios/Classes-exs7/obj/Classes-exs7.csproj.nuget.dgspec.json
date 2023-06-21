@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\C#-exs\\exercicios\\classes-exs7\\Classes-exs7.csproj": {}
+    "c:\\Exs-Csharp\\Exercicios\\classes-exs7\\classes-exs7.csproj": {}
   },
   "projects": {
-    "C:\\C#\\C#-exs\\exercicios\\classes-exs7\\Classes-exs7.csproj": {
+    "c:\\Exs-Csharp\\Exercicios\\classes-exs7\\classes-exs7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\C#-exs\\exercicios\\classes-exs7\\Classes-exs7.csproj",
-        "projectName": "Classes-exs7",
-        "projectPath": "C:\\C#\\C#-exs\\exercicios\\classes-exs7\\Classes-exs7.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\classes-exs7\\classes-exs7.csproj",
+        "projectName": "classes-exs7",
+        "projectPath": "c:\\Exs-Csharp\\Exercicios\\classes-exs7\\classes-exs7.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\C#-exs\\exercicios\\classes-exs7\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\Exercicios\\classes-exs7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

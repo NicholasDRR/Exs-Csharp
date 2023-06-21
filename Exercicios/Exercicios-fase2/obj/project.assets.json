@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\C#-exs\\exercicios\\exercicios-fase2\\Exercicios-fase2.csproj",
-      "projectName": "Exercicios-fase2",
-      "projectPath": "C:\\C#\\C#-exs\\exercicios\\exercicios-fase2\\Exercicios-fase2.csproj",
+      "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\exercicios-fase2\\exercicios-fase2.csproj",
+      "projectName": "exercicios-fase2",
+      "projectPath": "c:\\Exs-Csharp\\Exercicios\\exercicios-fase2\\exercicios-fase2.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\C#-exs\\exercicios\\exercicios-fase2\\obj\\",
+      "outputPath": "c:\\Exs-Csharp\\Exercicios\\exercicios-fase2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

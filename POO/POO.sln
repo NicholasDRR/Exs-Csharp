@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "downupcasting", "downupcast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstrata", "abstrata\abstrata.csproj", "{4108401C-BDFE-40B6-BD61-1B007DE673C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herancacomposicao", "herancacomposicao\herancacomposicao.csproj", "{C2152756-E60C-4C7E-B7FC-B0CF1DD3CC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polimorfismo", "polimorfismo\polimorfismo.csproj", "{8B9D9100-79E9-4944-943D-0C08B9811B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo2", "Polimorfismo2\Polimorfismo2.csproj", "{43B1C4A3-0ED6-4B4B-9383-E5129D717C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +66,17 @@ Global
 		{4108401C-BDFE-40B6-BD61-1B007DE673C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4108401C-BDFE-40B6-BD61-1B007DE673C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4108401C-BDFE-40B6-BD61-1B007DE673C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2152756-E60C-4C7E-B7FC-B0CF1DD3CC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2152756-E60C-4C7E-B7FC-B0CF1DD3CC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2152756-E60C-4C7E-B7FC-B0CF1DD3CC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2152756-E60C-4C7E-B7FC-B0CF1DD3CC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9D9100-79E9-4944-943D-0C08B9811B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9D9100-79E9-4944-943D-0C08B9811B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9D9100-79E9-4944-943D-0C08B9811B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9D9100-79E9-4944-943D-0C08B9811B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B1C4A3-0ED6-4B4B-9383-E5129D717C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B1C4A3-0ED6-4B4B-9383-E5129D717C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B1C4A3-0ED6-4B4B-9383-E5129D717C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B1C4A3-0ED6-4B4B-9383-E5129D717C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

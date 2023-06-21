@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\C#-exs\\exercicios\\Classes-exs6\\Classes-exs6.csproj",
-      "projectName": "Classes-exs6",
-      "projectPath": "C:\\C#\\C#-exs\\exercicios\\Classes-exs6\\Classes-exs6.csproj",
+      "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\classes-exs6\\classes-exs6.csproj",
+      "projectName": "classes-exs6",
+      "projectPath": "c:\\Exs-Csharp\\Exercicios\\classes-exs6\\classes-exs6.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\C#-exs\\exercicios\\Classes-exs6\\obj\\",
+      "outputPath": "c:\\Exs-Csharp\\Exercicios\\classes-exs6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

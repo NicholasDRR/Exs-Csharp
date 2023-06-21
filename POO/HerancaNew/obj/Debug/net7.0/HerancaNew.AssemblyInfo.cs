@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HerancaNew")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("herancanew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("HerancaNew")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HerancaNew")]
+[assembly: System.Reflection.AssemblyProductAttribute("herancanew")]
+[assembly: System.Reflection.AssemblyTitleAttribute("herancanew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

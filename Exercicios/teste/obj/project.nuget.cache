@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "axDFfOfWOivxhAwh8HgoSmWo59RrEMwuObFYE91Svu+o+lN2Sa7NrUvK1L6aJ90h6Nr9Zw7lEkm4dwx1K1mqMg==",
+  "dgSpecHash": "cqTz+egQPsz9C2qTtIMTXWoNZkUHHPxgBQ5rWQN2+3BDzU1XF3u/Ttc6/2UL+DydZ6GgrpWg08C3zUp0f5jEZA==",
   "success": true,
-  "projectFilePath": "C:\\C#\\c#-exs\\exercicios\\teste\\teste.csproj",
+  "projectFilePath": "c:\\Exs-Csharp\\Exercicios\\teste\\teste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

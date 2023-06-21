@@ -1,0 +1,15 @@
+C:\Exs-Csharp\POO\Polimorfismo2\bin\Debug\net7.0\Polimorfismo2.exe
+C:\Exs-Csharp\POO\Polimorfismo2\bin\Debug\net7.0\Polimorfismo2.deps.json
+C:\Exs-Csharp\POO\Polimorfismo2\bin\Debug\net7.0\Polimorfismo2.runtimeconfig.json
+C:\Exs-Csharp\POO\Polimorfismo2\bin\Debug\net7.0\Polimorfismo2.dll
+C:\Exs-Csharp\POO\Polimorfismo2\bin\Debug\net7.0\Polimorfismo2.pdb
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.csproj.AssemblyReference.cache
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.AssemblyInfoInputs.cache
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.AssemblyInfo.cs
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.csproj.CoreCompileInputs.cache
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.dll
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\refint\Polimorfismo2.dll
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.pdb
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\Polimorfismo2.genruntimeconfig.cache
+C:\Exs-Csharp\POO\Polimorfismo2\obj\Debug\net7.0\ref\Polimorfismo2.dll

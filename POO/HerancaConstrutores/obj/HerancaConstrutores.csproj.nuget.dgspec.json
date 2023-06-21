@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exs-Csharp\\POO\\herancaconstrutores\\HerancaConstrutores.csproj": {}
+    "c:\\Exs-Csharp\\POO\\herancaconstrutores\\herancaconstrutores.csproj": {}
   },
   "projects": {
-    "C:\\Exs-Csharp\\POO\\herancaconstrutores\\HerancaConstrutores.csproj": {
+    "c:\\Exs-Csharp\\POO\\herancaconstrutores\\herancaconstrutores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exs-Csharp\\POO\\herancaconstrutores\\HerancaConstrutores.csproj",
-        "projectName": "HerancaConstrutores",
-        "projectPath": "C:\\Exs-Csharp\\POO\\herancaconstrutores\\HerancaConstrutores.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\POO\\herancaconstrutores\\herancaconstrutores.csproj",
+        "projectName": "herancaconstrutores",
+        "projectPath": "c:\\Exs-Csharp\\POO\\herancaconstrutores\\herancaconstrutores.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Exs-Csharp\\POO\\herancaconstrutores\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\POO\\herancaconstrutores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"

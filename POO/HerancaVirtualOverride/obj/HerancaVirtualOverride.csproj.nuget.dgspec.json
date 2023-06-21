@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exs-Csharp\\poo\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj": {}
+    "c:\\Exs-Csharp\\POO\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj": {}
   },
   "projects": {
-    "C:\\Exs-Csharp\\poo\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj": {
+    "c:\\Exs-Csharp\\POO\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exs-Csharp\\poo\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\POO\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj",
         "projectName": "HerancaVirtualOverride",
-        "projectPath": "C:\\Exs-Csharp\\poo\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj",
+        "projectPath": "c:\\Exs-Csharp\\POO\\HerancaVirtualOverride\\HerancaVirtualOverride.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Exs-Csharp\\poo\\HerancaVirtualOverride\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\POO\\HerancaVirtualOverride\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"

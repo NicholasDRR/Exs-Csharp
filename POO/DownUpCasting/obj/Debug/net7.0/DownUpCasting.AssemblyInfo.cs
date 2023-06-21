@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DownUpCasting")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("downupcasting")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("DownUpCasting")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DownUpCasting")]
+[assembly: System.Reflection.AssemblyProductAttribute("downupcasting")]
+[assembly: System.Reflection.AssemblyTitleAttribute("downupcasting")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

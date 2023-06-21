@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exs-Csharp\\exercicios\\colecao-exs1\\Colecao-exs1.csproj": {}
+    "c:\\Exs-Csharp\\Exercicios\\colecao-exs1\\colecao-exs1.csproj": {}
   },
   "projects": {
-    "C:\\Exs-Csharp\\exercicios\\colecao-exs1\\Colecao-exs1.csproj": {
+    "c:\\Exs-Csharp\\Exercicios\\colecao-exs1\\colecao-exs1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exs-Csharp\\exercicios\\colecao-exs1\\Colecao-exs1.csproj",
-        "projectName": "Colecao-exs1",
-        "projectPath": "C:\\Exs-Csharp\\exercicios\\colecao-exs1\\Colecao-exs1.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\colecao-exs1\\colecao-exs1.csproj",
+        "projectName": "colecao-exs1",
+        "projectPath": "c:\\Exs-Csharp\\Exercicios\\colecao-exs1\\colecao-exs1.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Exs-Csharp\\exercicios\\colecao-exs1\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\Exercicios\\colecao-exs1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"

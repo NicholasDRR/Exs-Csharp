@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\c#-exs\\exercicios\\arraylisti\\ArrayListI.csproj": {}
+    "c:\\Exs-Csharp\\Exercicios\\arraylisti\\arraylisti.csproj": {}
   },
   "projects": {
-    "C:\\C#\\c#-exs\\exercicios\\arraylisti\\ArrayListI.csproj": {
+    "c:\\Exs-Csharp\\Exercicios\\arraylisti\\arraylisti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\c#-exs\\exercicios\\arraylisti\\ArrayListI.csproj",
-        "projectName": "ArrayListI",
-        "projectPath": "C:\\C#\\c#-exs\\exercicios\\arraylisti\\ArrayListI.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\arraylisti\\arraylisti.csproj",
+        "projectName": "arraylisti",
+        "projectPath": "c:\\Exs-Csharp\\Exercicios\\arraylisti\\arraylisti.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\c#-exs\\exercicios\\arraylisti\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\Exercicios\\arraylisti\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

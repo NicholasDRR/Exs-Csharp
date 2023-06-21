@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\C#-exs\\exercicios\\CamposEstaticos-exs\\CamposEstaticos-exs.csproj",
-      "projectName": "CamposEstaticos-exs",
-      "projectPath": "C:\\C#\\C#-exs\\exercicios\\CamposEstaticos-exs\\CamposEstaticos-exs.csproj",
+      "projectUniqueName": "c:\\Exs-Csharp\\Exercicios\\camposestaticos-exs\\camposestaticos-exs.csproj",
+      "projectName": "camposestaticos-exs",
+      "projectPath": "c:\\Exs-Csharp\\Exercicios\\camposestaticos-exs\\camposestaticos-exs.csproj",
       "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\C#-exs\\exercicios\\CamposEstaticos-exs\\obj\\",
+      "outputPath": "c:\\Exs-Csharp\\Exercicios\\camposestaticos-exs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exs-Csharp\\poo\\herancasealed\\HerancaSealed.csproj": {}
+    "c:\\Exs-Csharp\\POO\\herancasealed\\herancasealed.csproj": {}
   },
   "projects": {
-    "C:\\Exs-Csharp\\poo\\herancasealed\\HerancaSealed.csproj": {
+    "c:\\Exs-Csharp\\POO\\herancasealed\\herancasealed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exs-Csharp\\poo\\herancasealed\\HerancaSealed.csproj",
-        "projectName": "HerancaSealed",
-        "projectPath": "C:\\Exs-Csharp\\poo\\herancasealed\\HerancaSealed.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\POO\\herancasealed\\herancasealed.csproj",
+        "projectName": "herancasealed",
+        "projectPath": "c:\\Exs-Csharp\\POO\\herancasealed\\herancasealed.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Exs-Csharp\\poo\\herancasealed\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\POO\\herancasealed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"

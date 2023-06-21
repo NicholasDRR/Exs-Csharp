@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Exs-Csharp\\poo\\downupcasting\\DownUpCasting.csproj": {}
+    "c:\\Exs-Csharp\\POO\\downupcasting\\downupcasting.csproj": {}
   },
   "projects": {
-    "C:\\Exs-Csharp\\poo\\downupcasting\\DownUpCasting.csproj": {
+    "c:\\Exs-Csharp\\POO\\downupcasting\\downupcasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Exs-Csharp\\poo\\downupcasting\\DownUpCasting.csproj",
-        "projectName": "DownUpCasting",
-        "projectPath": "C:\\Exs-Csharp\\poo\\downupcasting\\DownUpCasting.csproj",
+        "projectUniqueName": "c:\\Exs-Csharp\\POO\\downupcasting\\downupcasting.csproj",
+        "projectName": "downupcasting",
+        "projectPath": "c:\\Exs-Csharp\\POO\\downupcasting\\downupcasting.csproj",
         "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-        "outputPath": "C:\\Exs-Csharp\\poo\\downupcasting\\obj\\",
+        "outputPath": "c:\\Exs-Csharp\\POO\\downupcasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nicho\\.nuget\\packages\\": {}
+    "/home/sdds/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Exs-Csharp\\poo\\Abstrata\\Abstrata.csproj",
+      "projectUniqueName": "/home/sdds/Exs-Csharp/POO/Abstrata/Abstrata.csproj",
       "projectName": "Abstrata",
-      "projectPath": "C:\\Exs-Csharp\\poo\\Abstrata\\Abstrata.csproj",
-      "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
-      "outputPath": "C:\\Exs-Csharp\\poo\\Abstrata\\obj\\",
+      "projectPath": "/home/sdds/Exs-Csharp/POO/Abstrata/Abstrata.csproj",
+      "packagesPath": "/home/sdds/.nuget/packages/",
+      "outputPath": "/home/sdds/Exs-Csharp/POO/Abstrata/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/sdds/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/sdds/.dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }

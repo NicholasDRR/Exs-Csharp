@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Polimorfismo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("polimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Polimorfismo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Polimorfismo")]
+[assembly: System.Reflection.AssemblyProductAttribute("polimorfismo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("polimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

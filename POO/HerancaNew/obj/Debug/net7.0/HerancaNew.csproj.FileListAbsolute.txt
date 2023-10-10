@@ -13,3 +13,17 @@ C:\Exs-Csharp\poo\herancanew\obj\Debug\net7.0\refint\HerancaNew.dll
 C:\Exs-Csharp\poo\herancanew\obj\Debug\net7.0\HerancaNew.pdb
 C:\Exs-Csharp\poo\herancanew\obj\Debug\net7.0\HerancaNew.genruntimeconfig.cache
 C:\Exs-Csharp\poo\herancanew\obj\Debug\net7.0\ref\HerancaNew.dll
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\bin\Debug\net7.0\HerancaNew.exe
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\bin\Debug\net7.0\HerancaNew.deps.json
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\bin\Debug\net7.0\HerancaNew.runtimeconfig.json
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\bin\Debug\net7.0\HerancaNew.dll
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\bin\Debug\net7.0\HerancaNew.pdb
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.AssemblyInfoInputs.cache
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.AssemblyInfo.cs
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.csproj.CoreCompileInputs.cache
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.dll
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\refint\HerancaNew.dll
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.pdb
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\HerancaNew.genruntimeconfig.cache
+C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\POO\HerancaNew\obj\Debug\net7.0\ref\HerancaNew.dll

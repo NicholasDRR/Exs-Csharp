@@ -1,6 +1,7 @@
 ﻿IController demo = new Demo();
 demo.Name = "Test";
 demo.ShowData();
+Console.ReadKey();
 
 
 interface IController
@@ -25,10 +26,7 @@ public class Demo : IController, IGraph
 {
     public string? Name { get; set; }
 
-    public void Draw()
-    {
-        System.Console.WriteLine("Drawing something...");
-    }
+   
 
     public void Paint()
     {

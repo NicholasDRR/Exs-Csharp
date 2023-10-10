@@ -5,6 +5,8 @@ student.Course = "Math";
 
 System.Console.WriteLine(student.Salute());
 
+Console.ReadKey();
+
 public class Person
 {
     public string? Name { get; set; }

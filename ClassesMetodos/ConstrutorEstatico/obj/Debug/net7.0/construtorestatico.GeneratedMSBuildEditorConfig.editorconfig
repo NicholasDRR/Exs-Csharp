@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = construtorestatico
-build_property.ProjectDir = c:\C#\C#-exs\ClassesMetodos\construtorestatico\
+build_property.RootNamespace = ConstrutorEstatico
+build_property.ProjectDir = C:\Users\nicho\OneDrive\Documentos\Exs-Csharp\ClassesMetodos\ConstrutorEstatico\

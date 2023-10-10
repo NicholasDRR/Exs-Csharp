@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/sdds/.nuget/packages/": {}
+    "C:\\Users\\nicho\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sdds/Exs-Csharp/POO/Abstrata/Abstrata.csproj",
-      "projectName": "Abstrata",
-      "projectPath": "/home/sdds/Exs-Csharp/POO/Abstrata/Abstrata.csproj",
-      "packagesPath": "/home/sdds/.nuget/packages/",
-      "outputPath": "/home/sdds/Exs-Csharp/POO/Abstrata/obj/",
+      "projectUniqueName": "c:\\Users\\nicho\\OneDrive\\Documentos\\Exs-Csharp\\POO\\abstrata\\abstrata.csproj",
+      "projectName": "abstrata",
+      "projectPath": "c:\\Users\\nicho\\OneDrive\\Documentos\\Exs-Csharp\\POO\\abstrata\\abstrata.csproj",
+      "packagesPath": "C:\\Users\\nicho\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\nicho\\OneDrive\\Documentos\\Exs-Csharp\\POO\\abstrata\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sdds/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nicho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/sdds/.dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

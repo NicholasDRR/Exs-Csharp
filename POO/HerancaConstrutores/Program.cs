@@ -1,5 +1,6 @@
 ﻿Student student1 = new();
 Student student = new("José");
+Console.ReadKey();
 
 public class Person
 {

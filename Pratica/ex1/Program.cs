@@ -40,7 +40,7 @@ if (playerOne == playerTwo)
 
 
 do
-{   
+{
     int playerOneNumber = random.Next(0, 10);
     int playerTwoNumber = random.Next(0, 10);
 
@@ -66,27 +66,12 @@ do
         continue;
     }
 
-    
+
     System.Console.WriteLine($"Winner: {winner}");
     System.Console.WriteLine($"Number: {greaterNumber}\n");
 
     rounds++;
+    
+} while (rounds < 3);
 
-} while(rounds < 3);
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
+Console.ReadKey(); 

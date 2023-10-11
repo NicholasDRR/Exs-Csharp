@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface-exs1", "interface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO-exs", "POO-exs\POO-exs.csproj", "{8E425A7B-5A60-487A-9975-09E00A1ECCFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{EEB7F502-34A0-46AF-B2A2-BD57F96DD170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{5380606B-9994-499C-A587-8E2644AE3F98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{8E425A7B-5A60-487A-9975-09E00A1ECCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E425A7B-5A60-487A-9975-09E00A1ECCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E425A7B-5A60-487A-9975-09E00A1ECCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB7F502-34A0-46AF-B2A2-BD57F96DD170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB7F502-34A0-46AF-B2A2-BD57F96DD170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB7F502-34A0-46AF-B2A2-BD57F96DD170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB7F502-34A0-46AF-B2A2-BD57F96DD170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5380606B-9994-499C-A587-8E2644AE3F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5380606B-9994-499C-A587-8E2644AE3F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5380606B-9994-499C-A587-8E2644AE3F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5380606B-9994-499C-A587-8E2644AE3F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

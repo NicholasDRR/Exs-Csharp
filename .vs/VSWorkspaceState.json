@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Pratica",
-    "\\Pratica\\ex4"
+    "\\Generics",
+    "\\Generics\\GenericIntrodution",
+    "\\Pratica\\ex6"
   ],
-  "SelectedNode": "\\Pratica\\ex4\\Program.cs",
+  "SelectedNode": "\\Generics\\GenericIntrodution\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
